@@ -1,0 +1,4001 @@
+User ID,Agency,Year,Credit Score
+4001,TransUnion,2021,828
+4002,Yellow Banana,2022,536
+4003,TransUnion,2024,815
+4004,Experian,2022,716
+4005,Yellow Banana,2023,394
+4006,TransUnion,2023,572
+4007,Experian,2024,469
+4008,Experian,2024,470
+4009,TransUnion,2024,359
+4010,Equifax,2020,358
+4011,Experian,2023,562
+4012,Yellow Banana,2023,608
+4013,Equifax,2024,563
+4014,Yellow Banana,2022,381
+4015,Yellow Banana,2020,803
+4016,TransUnion,2024,665
+4017,Yellow Banana,2023,608
+4018,Yellow Banana,2021,328
+4019,Yellow Banana,2024,407
+4020,Yellow Banana,2021,581
+4021,Equifax,2023,847
+4022,Yellow Banana,2024,836
+4023,Experian,2023,438
+4024,Experian,2023,598
+4025,Experian,2024,801
+4026,Yellow Banana,2022,362
+4027,TransUnion,2021,575
+4028,Yellow Banana,2022,325
+4029,Equifax,2023,393
+4030,Yellow Banana,2023,719
+4031,Yellow Banana,2024,354
+4032,Experian,2024,687
+4033,Yellow Banana,2021,455
+4034,TransUnion,2024,724
+4035,Yellow Banana,2023,563
+4036,Yellow Banana,2022,467
+4037,Experian,2021,570
+4038,Yellow Banana,2024,789
+4039,TransUnion,2023,595
+4040,TransUnion,2022,790
+4041,Yellow Banana,2020,594
+4042,Yellow Banana,2022,608
+4043,Equifax,2021,620
+4044,TransUnion,2022,619
+4045,Yellow Banana,2022,350
+4046,Experian,2024,568
+4047,Yellow Banana,2024,587
+4048,Equifax,2022,701
+4049,Equifax,2021,633
+4050,Yellow Banana,2023,544
+4051,Experian,2022,759
+4052,Experian,2020,641
+4053,Experian,2021,352
+4054,TransUnion,2021,444
+4055,Experian,2021,465
+4056,Equifax,2024,563
+4057,Yellow Banana,2024,667
+4058,TransUnion,2021,714
+4059,Yellow Banana,2020,792
+4060,Yellow Banana,2020,562
+4061,Yellow Banana,2024,568
+4062,Equifax,2024,691
+4063,Equifax,2022,403
+4064,Experian,2020,383
+4065,TransUnion,2023,512
+4066,Yellow Banana,2024,755
+4067,TransUnion,2024,630
+4068,Experian,2020,627
+4069,Equifax,2023,527
+4070,TransUnion,2023,627
+4071,Equifax,2022,845
+4072,Yellow Banana,2020,337
+4073,TransUnion,2020,416
+4074,Yellow Banana,2020,747
+4075,Experian,2023,521
+4076,TransUnion,2023,321
+4077,Yellow Banana,2024,630
+4078,Equifax,2022,392
+4079,TransUnion,2022,520
+4080,TransUnion,2021,452
+4081,Yellow Banana,2021,355
+4082,Experian,2021,753
+4083,TransUnion,2023,588
+4084,Yellow Banana,2021,845
+4085,Yellow Banana,2021,587
+4086,Experian,2020,820
+4087,Yellow Banana,2023,678
+4088,TransUnion,2020,471
+4089,Yellow Banana,2021,509
+4090,Yellow Banana,2022,350
+4091,Experian,2024,689
+4092,TransUnion,2024,744
+4093,TransUnion,2021,455
+4094,Equifax,2022,342
+4095,Equifax,2024,614
+4096,Experian,2023,777
+4097,TransUnion,2023,640
+4098,Yellow Banana,2022,824
+4099,Equifax,2022,318
+4100,Equifax,2024,302
+4101,TransUnion,2023,611
+4102,Yellow Banana,2023,743
+4103,Equifax,2020,808
+4104,Experian,2021,400
+4105,Equifax,2022,650
+4106,Yellow Banana,2020,433
+4107,TransUnion,2024,538
+4108,Yellow Banana,2021,499
+4109,TransUnion,2024,645
+4110,TransUnion,2020,462
+4111,Equifax,2021,596
+4112,Experian,2023,308
+4113,Yellow Banana,2020,677
+4114,Equifax,2024,331
+4115,Yellow Banana,2020,367
+4116,Equifax,2023,604
+4117,TransUnion,2024,514
+4118,Yellow Banana,2024,318
+4119,Yellow Banana,2020,517
+4120,Yellow Banana,2021,526
+4121,Yellow Banana,2021,369
+4122,TransUnion,2022,339
+4123,Equifax,2020,618
+4124,Experian,2021,318
+4125,TransUnion,2024,729
+4126,Yellow Banana,2021,798
+4127,Yellow Banana,2024,717
+4128,Equifax,2023,410
+4129,Equifax,2021,765
+4130,TransUnion,2023,488
+4131,Equifax,2023,724
+4132,TransUnion,2024,801
+4133,Equifax,2024,634
+4134,Experian,2020,344
+4135,Equifax,2023,684
+4136,TransUnion,2021,777
+4137,Equifax,2023,404
+4138,TransUnion,2020,838
+4139,Yellow Banana,2022,434
+4140,Yellow Banana,2024,492
+4141,Yellow Banana,2024,346
+4142,TransUnion,2024,784
+4143,Equifax,2023,777
+4144,TransUnion,2024,362
+4145,TransUnion,2021,432
+4146,Equifax,2024,488
+4147,Experian,2023,666
+4148,Yellow Banana,2022,435
+4149,Equifax,2021,407
+4150,TransUnion,2024,392
+4151,Equifax,2024,824
+4152,Experian,2024,724
+4153,TransUnion,2024,775
+4154,Yellow Banana,2022,826
+4155,Experian,2024,428
+4156,Equifax,2020,458
+4157,Experian,2024,340
+4158,Equifax,2023,356
+4159,Yellow Banana,2022,843
+4160,Equifax,2024,661
+4161,TransUnion,2022,813
+4162,TransUnion,2023,459
+4163,Equifax,2021,693
+4164,Equifax,2020,319
+4165,Experian,2022,679
+4166,Equifax,2023,381
+4167,TransUnion,2022,494
+4168,Experian,2022,720
+4169,Yellow Banana,2021,355
+4170,Equifax,2021,468
+4171,Experian,2021,643
+4172,Equifax,2022,668
+4173,Experian,2023,377
+4174,TransUnion,2023,526
+4175,Experian,2024,653
+4176,Yellow Banana,2022,516
+4177,TransUnion,2020,399
+4178,TransUnion,2022,793
+4179,TransUnion,2022,709
+4180,Equifax,2022,699
+4181,Equifax,2024,435
+4182,TransUnion,2024,587
+4183,Yellow Banana,2023,748
+4184,Experian,2020,542
+4185,Yellow Banana,2023,672
+4186,Yellow Banana,2022,724
+4187,Equifax,2022,471
+4188,Experian,2020,381
+4189,Experian,2020,794
+4190,TransUnion,2023,306
+4191,Equifax,2020,427
+4192,Experian,2022,812
+4193,TransUnion,2021,367
+4194,Equifax,2022,440
+4195,Yellow Banana,2024,700
+4196,Yellow Banana,2021,499
+4197,TransUnion,2023,617
+4198,Experian,2024,731
+4199,TransUnion,2020,362
+4200,Experian,2024,391
+4201,Yellow Banana,2020,719
+4202,Equifax,2023,628
+4203,Yellow Banana,2022,462
+4204,Experian,2023,727
+4205,Experian,2024,659
+4206,TransUnion,2024,592
+4207,Equifax,2020,430
+4208,Equifax,2022,639
+4209,Experian,2024,770
+4210,Yellow Banana,2020,825
+4211,Experian,2021,697
+4212,Equifax,2021,783
+4213,Equifax,2022,554
+4214,Yellow Banana,2022,460
+4215,Equifax,2021,560
+4216,Equifax,2023,825
+4217,Equifax,2024,606
+4218,Experian,2020,693
+4219,Experian,2023,828
+4220,Experian,2024,363
+4221,Yellow Banana,2023,352
+4222,TransUnion,2023,772
+4223,Yellow Banana,2024,565
+4224,TransUnion,2022,790
+4225,Equifax,2023,417
+4226,TransUnion,2021,478
+4227,Yellow Banana,2020,369
+4228,Yellow Banana,2024,426
+4229,Experian,2022,760
+4230,Experian,2020,819
+4231,Experian,2024,482
+4232,TransUnion,2020,574
+4233,TransUnion,2024,384
+4234,TransUnion,2023,429
+4235,Experian,2024,408
+4236,Equifax,2022,764
+4237,Equifax,2020,819
+4238,Experian,2020,696
+4239,Yellow Banana,2020,568
+4240,TransUnion,2024,639
+4241,Experian,2021,709
+4242,TransUnion,2020,718
+4243,Experian,2020,781
+4244,Equifax,2023,521
+4245,Experian,2022,528
+4246,Yellow Banana,2022,535
+4247,Yellow Banana,2022,539
+4248,Yellow Banana,2022,618
+4249,TransUnion,2024,657
+4250,Yellow Banana,2022,688
+4251,Yellow Banana,2020,471
+4252,Yellow Banana,2020,680
+4253,Yellow Banana,2020,690
+4254,Experian,2020,802
+4255,Yellow Banana,2024,794
+4256,TransUnion,2024,351
+4257,Yellow Banana,2020,322
+4258,Experian,2022,487
+4259,Equifax,2023,424
+4260,TransUnion,2024,607
+4261,Yellow Banana,2023,309
+4262,TransUnion,2024,751
+4263,TransUnion,2023,762
+4264,Equifax,2020,700
+4265,Yellow Banana,2023,793
+4266,Equifax,2020,528
+4267,Equifax,2021,595
+4268,TransUnion,2021,616
+4269,Experian,2020,596
+4270,Yellow Banana,2023,316
+4271,Yellow Banana,2024,403
+4272,Equifax,2022,832
+4273,TransUnion,2021,584
+4274,Experian,2023,319
+4275,Experian,2023,611
+4276,Experian,2020,632
+4277,Equifax,2022,385
+4278,Yellow Banana,2021,583
+4279,Yellow Banana,2022,653
+4280,TransUnion,2023,470
+4281,Experian,2023,400
+4282,Experian,2022,309
+4283,Equifax,2022,655
+4284,Yellow Banana,2022,327
+4285,Experian,2020,794
+4286,Experian,2024,521
+4287,Experian,2024,641
+4288,Equifax,2021,695
+4289,Equifax,2021,633
+4290,TransUnion,2020,554
+4291,Equifax,2020,809
+4292,Yellow Banana,2024,766
+4293,Yellow Banana,2021,542
+4294,TransUnion,2020,710
+4295,TransUnion,2020,557
+4296,Equifax,2023,430
+4297,TransUnion,2021,679
+4298,Equifax,2020,782
+4299,Yellow Banana,2021,445
+4300,Experian,2023,344
+4301,Yellow Banana,2024,850
+4302,Yellow Banana,2024,353
+4303,Experian,2021,330
+4304,Yellow Banana,2020,673
+4305,Equifax,2023,405
+4306,Yellow Banana,2020,369
+4307,TransUnion,2024,410
+4308,Yellow Banana,2020,717
+4309,TransUnion,2023,747
+4310,Equifax,2021,684
+4311,TransUnion,2024,674
+4312,Experian,2020,597
+4313,Experian,2022,753
+4314,TransUnion,2020,678
+4315,Equifax,2020,713
+4316,Yellow Banana,2022,610
+4317,TransUnion,2021,481
+4318,TransUnion,2022,499
+4319,Equifax,2024,521
+4320,Experian,2023,342
+4321,Experian,2022,409
+4322,TransUnion,2022,792
+4323,TransUnion,2023,637
+4324,TransUnion,2023,783
+4325,Equifax,2024,627
+4326,Yellow Banana,2022,626
+4327,Yellow Banana,2021,463
+4328,Experian,2024,323
+4329,Yellow Banana,2022,671
+4330,Yellow Banana,2020,627
+4331,Experian,2023,408
+4332,Equifax,2022,580
+4333,Equifax,2020,808
+4334,Experian,2023,444
+4335,Experian,2023,731
+4336,Experian,2022,630
+4337,Yellow Banana,2024,551
+4338,TransUnion,2023,447
+4339,Equifax,2023,392
+4340,TransUnion,2023,528
+4341,Equifax,2023,666
+4342,Yellow Banana,2021,390
+4343,Equifax,2024,585
+4344,Equifax,2020,825
+4345,Yellow Banana,2024,724
+4346,Equifax,2024,608
+4347,TransUnion,2024,446
+4348,TransUnion,2021,740
+4349,TransUnion,2023,606
+4350,Experian,2023,438
+4351,Experian,2020,503
+4352,Experian,2020,587
+4353,Yellow Banana,2024,316
+4354,TransUnion,2024,783
+4355,TransUnion,2023,390
+4356,Yellow Banana,2022,459
+4357,Experian,2023,413
+4358,Equifax,2021,545
+4359,Equifax,2022,544
+4360,Experian,2021,627
+4361,Equifax,2021,706
+4362,TransUnion,2020,760
+4363,TransUnion,2022,475
+4364,Yellow Banana,2020,775
+4365,Yellow Banana,2024,455
+4366,Yellow Banana,2020,478
+4367,Equifax,2023,839
+4368,TransUnion,2021,670
+4369,TransUnion,2022,554
+4370,Yellow Banana,2023,733
+4371,Yellow Banana,2023,685
+4372,Yellow Banana,2023,443
+4373,Equifax,2022,793
+4374,Experian,2020,472
+4375,Experian,2022,464
+4376,Equifax,2024,787
+4377,Yellow Banana,2023,664
+4378,Yellow Banana,2021,732
+4379,TransUnion,2023,616
+4380,TransUnion,2022,827
+4381,Yellow Banana,2022,573
+4382,Yellow Banana,2022,767
+4383,Yellow Banana,2023,728
+4384,Yellow Banana,2022,373
+4385,Yellow Banana,2021,595
+4386,TransUnion,2020,430
+4387,Yellow Banana,2022,446
+4388,Equifax,2021,537
+4389,Experian,2023,760
+4390,Yellow Banana,2024,661
+4391,Equifax,2024,654
+4392,Experian,2021,645
+4393,Yellow Banana,2023,850
+4394,TransUnion,2021,778
+4395,Experian,2021,545
+4396,Experian,2021,386
+4397,Yellow Banana,2021,402
+4398,Yellow Banana,2020,304
+4399,Equifax,2024,648
+4400,Experian,2023,605
+4401,TransUnion,2020,490
+4402,TransUnion,2021,842
+4403,TransUnion,2020,733
+4404,Experian,2020,424
+4405,Equifax,2022,579
+4406,Experian,2023,317
+4407,Yellow Banana,2021,675
+4408,Yellow Banana,2022,335
+4409,Equifax,2024,607
+4410,Yellow Banana,2021,815
+4411,Experian,2021,468
+4412,Equifax,2022,651
+4413,TransUnion,2024,599
+4414,Experian,2024,327
+4415,Experian,2020,673
+4416,Experian,2024,813
+4417,TransUnion,2022,666
+4418,Equifax,2024,451
+4419,Yellow Banana,2023,302
+4420,TransUnion,2023,802
+4421,TransUnion,2024,593
+4422,Yellow Banana,2023,445
+4423,Yellow Banana,2022,849
+4424,Yellow Banana,2021,645
+4425,Experian,2021,582
+4426,Equifax,2020,535
+4427,Yellow Banana,2021,562
+4428,Experian,2022,585
+4429,Equifax,2022,708
+4430,Equifax,2024,430
+4431,Yellow Banana,2021,530
+4432,Experian,2023,562
+4433,Yellow Banana,2023,717
+4434,Equifax,2021,422
+4435,TransUnion,2022,690
+4436,Yellow Banana,2020,653
+4437,TransUnion,2021,676
+4438,Yellow Banana,2021,337
+4439,TransUnion,2023,357
+4440,TransUnion,2024,569
+4441,TransUnion,2020,609
+4442,Yellow Banana,2020,823
+4443,Experian,2023,373
+4444,Yellow Banana,2023,789
+4445,Yellow Banana,2024,550
+4446,Equifax,2024,332
+4447,Experian,2023,454
+4448,Equifax,2024,676
+4449,TransUnion,2020,786
+4450,TransUnion,2020,374
+4451,TransUnion,2022,594
+4452,Experian,2022,396
+4453,Yellow Banana,2023,310
+4454,TransUnion,2023,412
+4455,Experian,2023,850
+4456,Yellow Banana,2023,749
+4457,Yellow Banana,2024,713
+4458,Yellow Banana,2023,563
+4459,Equifax,2024,820
+4460,Yellow Banana,2020,338
+4461,Experian,2024,765
+4462,Experian,2022,378
+4463,Equifax,2024,702
+4464,Experian,2021,317
+4465,Yellow Banana,2020,400
+4466,Equifax,2020,808
+4467,Equifax,2020,643
+4468,Experian,2024,800
+4469,Yellow Banana,2024,404
+4470,TransUnion,2024,332
+4471,Experian,2020,698
+4472,Experian,2024,538
+4473,TransUnion,2023,600
+4474,Equifax,2024,350
+4475,Yellow Banana,2024,504
+4476,Yellow Banana,2024,549
+4477,Experian,2022,712
+4478,TransUnion,2021,638
+4479,TransUnion,2020,420
+4480,TransUnion,2022,398
+4481,TransUnion,2021,827
+4482,Equifax,2021,633
+4483,TransUnion,2024,364
+4484,Equifax,2020,825
+4485,Equifax,2021,506
+4486,TransUnion,2021,727
+4487,Yellow Banana,2024,517
+4488,TransUnion,2021,678
+4489,Equifax,2023,503
+4490,TransUnion,2022,494
+4491,Experian,2022,708
+4492,Experian,2020,429
+4493,Yellow Banana,2022,500
+4494,Experian,2022,302
+4495,TransUnion,2022,660
+4496,Experian,2021,459
+4497,Equifax,2022,304
+4498,TransUnion,2020,339
+4499,Yellow Banana,2022,710
+4500,Equifax,2024,393
+4501,Experian,2024,773
+4502,Equifax,2022,490
+4503,Equifax,2020,510
+4504,TransUnion,2023,301
+4505,TransUnion,2020,343
+4506,TransUnion,2021,639
+4507,Yellow Banana,2022,528
+4508,Yellow Banana,2022,597
+4509,Experian,2024,401
+4510,TransUnion,2024,567
+4511,Equifax,2024,668
+4512,Experian,2024,629
+4513,TransUnion,2023,694
+4514,Equifax,2021,723
+4515,Yellow Banana,2024,447
+4516,Experian,2020,436
+4517,TransUnion,2020,631
+4518,Experian,2023,572
+4519,Yellow Banana,2024,453
+4520,Equifax,2022,801
+4521,TransUnion,2021,849
+4522,TransUnion,2021,466
+4523,Yellow Banana,2020,375
+4524,Experian,2022,422
+4525,Equifax,2022,824
+4526,TransUnion,2021,698
+4527,TransUnion,2023,321
+4528,Equifax,2024,518
+4529,Yellow Banana,2024,498
+4530,Equifax,2021,815
+4531,Equifax,2024,516
+4532,Equifax,2021,328
+4533,Yellow Banana,2021,558
+4534,Yellow Banana,2022,724
+4535,Yellow Banana,2024,355
+4536,Equifax,2021,425
+4537,Equifax,2023,416
+4538,Equifax,2022,686
+4539,TransUnion,2020,799
+4540,TransUnion,2024,811
+4541,Experian,2022,703
+4542,TransUnion,2022,331
+4543,Experian,2020,691
+4544,TransUnion,2024,751
+4545,TransUnion,2024,574
+4546,Equifax,2020,431
+4547,Equifax,2022,693
+4548,Equifax,2023,342
+4549,Experian,2020,764
+4550,Experian,2022,487
+4551,Yellow Banana,2024,823
+4552,Equifax,2020,441
+4553,TransUnion,2021,446
+4554,Experian,2020,631
+4555,Equifax,2020,438
+4556,Equifax,2021,662
+4557,TransUnion,2022,385
+4558,Experian,2020,319
+4559,Equifax,2022,694
+4560,Experian,2022,482
+4561,Equifax,2021,630
+4562,Equifax,2023,437
+4563,Yellow Banana,2022,358
+4564,Yellow Banana,2023,682
+4565,Yellow Banana,2023,653
+4566,TransUnion,2020,320
+4567,Experian,2021,554
+4568,TransUnion,2021,365
+4569,Experian,2022,346
+4570,Equifax,2022,797
+4571,Yellow Banana,2023,822
+4572,Experian,2020,413
+4573,Experian,2023,548
+4574,Equifax,2023,350
+4575,Experian,2024,703
+4576,Yellow Banana,2021,594
+4577,Experian,2020,462
+4578,Experian,2020,724
+4579,Equifax,2024,825
+4580,Experian,2024,424
+4581,Experian,2024,782
+4582,TransUnion,2023,422
+4583,Yellow Banana,2023,306
+4584,Experian,2020,610
+4585,Experian,2023,410
+4586,TransUnion,2023,342
+4587,Equifax,2022,629
+4588,Experian,2021,583
+4589,TransUnion,2023,526
+4590,Equifax,2022,630
+4591,Yellow Banana,2024,696
+4592,Experian,2022,627
+4593,Equifax,2023,639
+4594,Equifax,2022,617
+4595,Experian,2023,575
+4596,Equifax,2023,505
+4597,Experian,2022,726
+4598,TransUnion,2022,563
+4599,Equifax,2024,789
+4600,TransUnion,2023,737
+4601,Experian,2022,795
+4602,Experian,2021,796
+4603,Experian,2023,564
+4604,Experian,2022,598
+4605,Experian,2024,671
+4606,TransUnion,2024,734
+4607,Experian,2022,599
+4608,Experian,2022,401
+4609,Experian,2024,750
+4610,TransUnion,2023,791
+4611,Equifax,2021,777
+4612,Experian,2024,721
+4613,TransUnion,2020,546
+4614,Yellow Banana,2023,495
+4615,Yellow Banana,2024,384
+4616,Yellow Banana,2024,560
+4617,Experian,2020,380
+4618,Equifax,2020,625
+4619,Experian,2024,655
+4620,Yellow Banana,2024,449
+4621,Yellow Banana,2020,688
+4622,Yellow Banana,2022,825
+4623,TransUnion,2020,614
+4624,Yellow Banana,2024,582
+4625,Yellow Banana,2022,731
+4626,Yellow Banana,2022,325
+4627,TransUnion,2024,304
+4628,Equifax,2023,485
+4629,Experian,2024,459
+4630,Experian,2022,529
+4631,Experian,2020,464
+4632,Yellow Banana,2020,843
+4633,Yellow Banana,2021,362
+4634,Equifax,2024,846
+4635,Experian,2024,330
+4636,Experian,2024,381
+4637,Yellow Banana,2023,494
+4638,Yellow Banana,2024,755
+4639,Experian,2024,372
+4640,Equifax,2024,807
+4641,Equifax,2022,767
+4642,Equifax,2024,591
+4643,Yellow Banana,2021,765
+4644,Equifax,2023,732
+4645,Experian,2023,767
+4646,TransUnion,2023,381
+4647,Equifax,2021,404
+4648,Equifax,2022,316
+4649,Equifax,2020,385
+4650,Experian,2021,686
+4651,TransUnion,2024,575
+4652,Equifax,2021,530
+4653,Yellow Banana,2023,565
+4654,TransUnion,2024,756
+4655,Yellow Banana,2023,380
+4656,TransUnion,2020,466
+4657,Equifax,2020,470
+4658,TransUnion,2022,302
+4659,Experian,2022,583
+4660,Yellow Banana,2024,762
+4661,Experian,2020,454
+4662,TransUnion,2021,301
+4663,TransUnion,2021,467
+4664,Yellow Banana,2023,525
+4665,Equifax,2023,458
+4666,Yellow Banana,2021,760
+4667,Experian,2022,820
+4668,TransUnion,2022,422
+4669,Experian,2022,803
+4670,Experian,2020,691
+4671,TransUnion,2022,828
+4672,Experian,2021,675
+4673,Experian,2020,833
+4674,TransUnion,2023,513
+4675,Equifax,2024,591
+4676,Equifax,2022,455
+4677,Yellow Banana,2020,325
+4678,Experian,2023,366
+4679,Yellow Banana,2021,408
+4680,TransUnion,2023,473
+4681,Yellow Banana,2020,783
+4682,TransUnion,2022,766
+4683,Yellow Banana,2020,711
+4684,Equifax,2024,449
+4685,Experian,2022,440
+4686,TransUnion,2020,715
+4687,Equifax,2021,301
+4688,TransUnion,2023,805
+4689,Experian,2022,420
+4690,Equifax,2024,739
+4691,Experian,2021,814
+4692,TransUnion,2022,315
+4693,Equifax,2024,530
+4694,TransUnion,2020,820
+4695,Equifax,2024,536
+4696,Yellow Banana,2023,423
+4697,Experian,2024,643
+4698,Experian,2023,660
+4699,TransUnion,2020,338
+4700,Equifax,2022,328
+4701,Yellow Banana,2024,750
+4702,Experian,2020,839
+4703,Yellow Banana,2023,843
+4704,Experian,2020,388
+4705,TransUnion,2023,619
+4706,Equifax,2023,762
+4707,Equifax,2020,716
+4708,Experian,2020,719
+4709,Equifax,2022,678
+4710,Experian,2021,823
+4711,Equifax,2024,360
+4712,Yellow Banana,2023,582
+4713,TransUnion,2022,686
+4714,Equifax,2024,405
+4715,Experian,2021,733
+4716,Yellow Banana,2020,539
+4717,Experian,2023,537
+4718,Yellow Banana,2022,847
+4719,Equifax,2023,464
+4720,Equifax,2024,361
+4721,Equifax,2020,552
+4722,TransUnion,2021,317
+4723,Experian,2021,478
+4724,Equifax,2021,489
+4725,TransUnion,2022,461
+4726,TransUnion,2023,503
+4727,Yellow Banana,2024,391
+4728,Equifax,2020,428
+4729,TransUnion,2020,628
+4730,Yellow Banana,2023,432
+4731,Experian,2020,372
+4732,Experian,2021,437
+4733,Yellow Banana,2021,646
+4734,Experian,2020,400
+4735,Experian,2024,434
+4736,TransUnion,2020,376
+4737,Yellow Banana,2020,376
+4738,TransUnion,2021,465
+4739,TransUnion,2022,806
+4740,Equifax,2024,849
+4741,TransUnion,2024,819
+4742,Experian,2021,612
+4743,TransUnion,2020,318
+4744,Yellow Banana,2022,593
+4745,Yellow Banana,2023,308
+4746,Yellow Banana,2023,308
+4747,Yellow Banana,2020,651
+4748,Yellow Banana,2020,320
+4749,Experian,2022,568
+4750,Experian,2021,310
+4751,Experian,2023,543
+4752,TransUnion,2024,825
+4753,Yellow Banana,2021,738
+4754,Yellow Banana,2021,751
+4755,Yellow Banana,2022,676
+4756,TransUnion,2023,512
+4757,Yellow Banana,2020,823
+4758,Experian,2020,396
+4759,Yellow Banana,2021,332
+4760,Experian,2020,691
+4761,TransUnion,2023,484
+4762,Experian,2022,604
+4763,Equifax,2022,765
+4764,Experian,2022,544
+4765,Yellow Banana,2020,662
+4766,TransUnion,2024,611
+4767,TransUnion,2022,846
+4768,Experian,2023,444
+4769,Experian,2021,457
+4770,Equifax,2023,838
+4771,Equifax,2020,339
+4772,Yellow Banana,2024,539
+4773,TransUnion,2023,516
+4774,TransUnion,2023,323
+4775,Experian,2024,711
+4776,Yellow Banana,2021,572
+4777,Equifax,2020,520
+4778,TransUnion,2024,757
+4779,Equifax,2020,586
+4780,Yellow Banana,2020,426
+4781,Experian,2020,700
+4782,TransUnion,2024,323
+4783,TransUnion,2020,538
+4784,Yellow Banana,2022,357
+4785,Equifax,2023,769
+4786,Equifax,2020,516
+4787,Yellow Banana,2021,668
+4788,Experian,2023,326
+4789,TransUnion,2022,491
+4790,Experian,2023,723
+4791,Equifax,2021,549
+4792,Experian,2024,325
+4793,Equifax,2024,529
+4794,Experian,2024,314
+4795,Yellow Banana,2024,490
+4796,Experian,2020,661
+4797,TransUnion,2021,564
+4798,TransUnion,2023,593
+4799,TransUnion,2023,358
+4800,Yellow Banana,2022,675
+4801,Experian,2024,837
+4802,Equifax,2022,334
+4803,Experian,2021,560
+4804,Experian,2023,304
+4805,TransUnion,2022,497
+4806,Equifax,2021,849
+4807,Equifax,2021,774
+4808,Experian,2024,392
+4809,Equifax,2024,686
+4810,Experian,2022,522
+4811,Experian,2022,734
+4812,Yellow Banana,2022,675
+4813,Yellow Banana,2021,518
+4814,Equifax,2021,551
+4815,Yellow Banana,2024,539
+4816,TransUnion,2023,501
+4817,Yellow Banana,2024,562
+4818,Yellow Banana,2021,772
+4819,TransUnion,2023,393
+4820,TransUnion,2020,845
+4821,Experian,2020,506
+4822,Yellow Banana,2022,619
+4823,Equifax,2022,654
+4824,Yellow Banana,2020,823
+4825,Equifax,2024,544
+4826,Yellow Banana,2023,661
+4827,Yellow Banana,2021,431
+4828,TransUnion,2020,307
+4829,TransUnion,2022,460
+4830,Yellow Banana,2024,461
+4831,Yellow Banana,2023,837
+4832,Yellow Banana,2024,584
+4833,Yellow Banana,2022,565
+4834,Experian,2021,633
+4835,Experian,2021,632
+4836,Yellow Banana,2023,777
+4837,Experian,2024,522
+4838,Equifax,2023,370
+4839,Yellow Banana,2023,694
+4840,Experian,2020,384
+4841,TransUnion,2024,559
+4842,Experian,2024,476
+4843,TransUnion,2021,359
+4844,Experian,2023,778
+4845,TransUnion,2023,479
+4846,TransUnion,2021,583
+4847,Experian,2021,781
+4848,Equifax,2023,799
+4849,Equifax,2022,663
+4850,Yellow Banana,2024,786
+4851,Equifax,2021,507
+4852,Equifax,2020,679
+4853,Experian,2020,756
+4854,Equifax,2024,828
+4855,TransUnion,2022,481
+4856,TransUnion,2024,618
+4857,Yellow Banana,2024,526
+4858,TransUnion,2024,721
+4859,Equifax,2024,824
+4860,TransUnion,2022,461
+4861,Yellow Banana,2021,727
+4862,Experian,2021,312
+4863,Equifax,2020,457
+4864,Yellow Banana,2021,490
+4865,Experian,2023,395
+4866,TransUnion,2024,826
+4867,Experian,2021,619
+4868,Experian,2023,309
+4869,Yellow Banana,2020,332
+4870,Experian,2022,812
+4871,Equifax,2024,480
+4872,Equifax,2021,727
+4873,Experian,2021,572
+4874,Experian,2021,706
+4875,Experian,2020,335
+4876,Experian,2024,749
+4877,Experian,2021,692
+4878,Yellow Banana,2020,648
+4879,TransUnion,2023,809
+4880,Experian,2021,371
+4881,Yellow Banana,2024,600
+4882,Experian,2021,628
+4883,Equifax,2020,773
+4884,Equifax,2023,655
+4885,Equifax,2020,439
+4886,TransUnion,2021,320
+4887,Yellow Banana,2023,463
+4888,Experian,2021,728
+4889,TransUnion,2023,502
+4890,Yellow Banana,2021,317
+4891,Experian,2020,568
+4892,TransUnion,2023,773
+4893,TransUnion,2020,727
+4894,Yellow Banana,2022,622
+4895,Equifax,2024,788
+4896,Equifax,2021,827
+4897,TransUnion,2023,699
+4898,TransUnion,2024,476
+4899,Equifax,2023,616
+4900,Equifax,2024,395
+4901,Equifax,2021,401
+4902,TransUnion,2023,313
+4903,Yellow Banana,2021,423
+4904,Experian,2023,442
+4905,Experian,2020,834
+4906,Equifax,2021,807
+4907,TransUnion,2021,792
+4908,Equifax,2024,727
+4909,TransUnion,2020,477
+4910,TransUnion,2021,601
+4911,Equifax,2023,642
+4912,Experian,2024,454
+4913,Yellow Banana,2024,409
+4914,Equifax,2020,532
+4915,Equifax,2024,562
+4916,TransUnion,2022,682
+4917,Yellow Banana,2022,763
+4918,Yellow Banana,2021,704
+4919,Equifax,2023,409
+4920,Experian,2024,661
+4921,Yellow Banana,2023,848
+4922,TransUnion,2022,487
+4923,Yellow Banana,2023,357
+4924,Experian,2022,701
+4925,TransUnion,2024,614
+4926,Equifax,2021,454
+4927,Yellow Banana,2021,767
+4928,Equifax,2022,372
+4929,Experian,2021,392
+4930,Yellow Banana,2024,309
+4931,Equifax,2024,368
+4932,Equifax,2023,819
+4933,Experian,2022,841
+4934,Equifax,2020,772
+4935,Equifax,2021,674
+4936,Equifax,2020,331
+4937,Yellow Banana,2020,477
+4938,Equifax,2021,417
+4939,Experian,2021,416
+4940,TransUnion,2020,763
+4941,Experian,2024,442
+4942,Equifax,2020,639
+4943,Experian,2022,449
+4944,TransUnion,2024,738
+4945,Yellow Banana,2020,366
+4946,TransUnion,2023,562
+4947,Equifax,2023,605
+4948,Equifax,2022,662
+4949,TransUnion,2024,410
+4950,Experian,2022,827
+4951,TransUnion,2022,479
+4952,Experian,2024,446
+4953,Yellow Banana,2022,820
+4954,Equifax,2020,616
+4955,Experian,2024,843
+4956,Equifax,2024,330
+4957,Yellow Banana,2023,788
+4958,TransUnion,2022,541
+4959,Equifax,2021,733
+4960,Experian,2022,758
+4961,TransUnion,2024,657
+4962,Equifax,2021,427
+4963,Equifax,2023,439
+4964,Equifax,2024,802
+4965,Yellow Banana,2021,630
+4966,Equifax,2023,416
+4967,Equifax,2021,668
+4968,Experian,2020,360
+4969,Equifax,2020,610
+4970,Experian,2020,505
+4971,TransUnion,2023,369
+4972,Equifax,2020,819
+4973,Yellow Banana,2022,834
+4974,Equifax,2024,660
+4975,Equifax,2020,720
+4976,TransUnion,2022,456
+4977,Equifax,2021,671
+4978,Experian,2020,540
+4979,TransUnion,2020,403
+4980,Yellow Banana,2020,539
+4981,Yellow Banana,2024,373
+4982,Experian,2023,590
+4983,Yellow Banana,2023,542
+4984,Experian,2022,811
+4985,TransUnion,2024,562
+4986,Equifax,2022,562
+4987,Experian,2024,598
+4988,Experian,2021,837
+4989,TransUnion,2023,823
+4990,Yellow Banana,2021,527
+4991,Experian,2022,620
+4992,Equifax,2022,356
+4993,Experian,2023,664
+4994,TransUnion,2023,796
+4995,Yellow Banana,2021,523
+4996,TransUnion,2020,511
+4997,Yellow Banana,2021,406
+4998,Experian,2022,712
+4999,Yellow Banana,2022,812
+5000,Yellow Banana,2023,697
+5001,TransUnion,2022,597
+5002,Experian,2022,532
+5003,Equifax,2021,392
+5004,Yellow Banana,2024,450
+5005,Equifax,2021,370
+5006,Yellow Banana,2023,391
+5007,Experian,2021,824
+5008,Experian,2024,519
+5009,Yellow Banana,2022,809
+5010,Yellow Banana,2023,571
+5011,TransUnion,2021,615
+5012,TransUnion,2020,565
+5013,Yellow Banana,2024,765
+5014,Equifax,2024,374
+5015,Experian,2021,328
+5016,Yellow Banana,2021,714
+5017,TransUnion,2023,452
+5018,Equifax,2021,534
+5019,Yellow Banana,2020,638
+5020,Equifax,2024,485
+5021,Yellow Banana,2021,809
+5022,Experian,2024,534
+5023,TransUnion,2024,781
+5024,Yellow Banana,2022,793
+5025,Experian,2023,778
+5026,Equifax,2024,381
+5027,TransUnion,2024,819
+5028,Yellow Banana,2024,786
+5029,Experian,2022,831
+5030,Experian,2020,547
+5031,TransUnion,2024,361
+5032,Experian,2020,466
+5033,TransUnion,2021,580
+5034,Experian,2020,834
+5035,Experian,2021,566
+5036,Experian,2024,440
+5037,Experian,2021,555
+5038,Yellow Banana,2023,414
+5039,Yellow Banana,2021,804
+5040,Yellow Banana,2024,549
+5041,Experian,2024,354
+5042,Equifax,2021,798
+5043,Yellow Banana,2020,481
+5044,TransUnion,2020,404
+5045,Experian,2024,404
+5046,Experian,2022,498
+5047,TransUnion,2024,448
+5048,Yellow Banana,2023,732
+5049,Equifax,2021,494
+5050,TransUnion,2023,495
+5051,Experian,2021,811
+5052,Yellow Banana,2021,334
+5053,TransUnion,2022,410
+5054,Experian,2021,752
+5055,Equifax,2020,441
+5056,Experian,2020,667
+5057,TransUnion,2020,404
+5058,Yellow Banana,2020,313
+5059,Experian,2020,723
+5060,Equifax,2021,379
+5061,Equifax,2020,346
+5062,Equifax,2020,555
+5063,TransUnion,2023,529
+5064,Experian,2021,436
+5065,Yellow Banana,2023,413
+5066,Equifax,2024,674
+5067,Equifax,2023,634
+5068,TransUnion,2022,735
+5069,Experian,2024,542
+5070,Yellow Banana,2021,671
+5071,Yellow Banana,2021,840
+5072,Experian,2021,388
+5073,Equifax,2021,618
+5074,Equifax,2020,787
+5075,TransUnion,2021,404
+5076,Equifax,2020,604
+5077,Equifax,2021,539
+5078,Experian,2023,798
+5079,Yellow Banana,2022,618
+5080,Experian,2020,737
+5081,Yellow Banana,2024,721
+5082,TransUnion,2020,765
+5083,TransUnion,2020,768
+5084,Yellow Banana,2024,562
+5085,Equifax,2024,694
+5086,Equifax,2020,680
+5087,Experian,2022,411
+5088,Equifax,2024,600
+5089,TransUnion,2021,765
+5090,Yellow Banana,2020,547
+5091,Equifax,2023,826
+5092,Yellow Banana,2021,599
+5093,Yellow Banana,2021,732
+5094,Yellow Banana,2022,340
+5095,Experian,2022,474
+5096,Yellow Banana,2020,320
+5097,Experian,2020,313
+5098,Yellow Banana,2023,464
+5099,TransUnion,2021,530
+5100,Yellow Banana,2023,335
+5101,TransUnion,2020,393
+5102,Equifax,2020,398
+5103,Experian,2022,724
+5104,Experian,2021,649
+5105,Yellow Banana,2020,709
+5106,Yellow Banana,2022,382
+5107,Yellow Banana,2023,637
+5108,TransUnion,2023,344
+5109,Experian,2022,380
+5110,TransUnion,2020,396
+5111,TransUnion,2024,387
+5112,Equifax,2020,809
+5113,Equifax,2024,742
+5114,Equifax,2023,605
+5115,Equifax,2024,394
+5116,Experian,2023,376
+5117,Yellow Banana,2022,396
+5118,TransUnion,2021,710
+5119,Experian,2020,625
+5120,Experian,2020,384
+5121,Equifax,2023,510
+5122,TransUnion,2020,443
+5123,Yellow Banana,2022,490
+5124,Yellow Banana,2020,377
+5125,Equifax,2022,662
+5126,Yellow Banana,2024,421
+5127,Yellow Banana,2023,354
+5128,TransUnion,2020,734
+5129,TransUnion,2023,648
+5130,Equifax,2024,575
+5131,Yellow Banana,2024,329
+5132,TransUnion,2021,662
+5133,TransUnion,2022,632
+5134,Experian,2024,635
+5135,Experian,2020,444
+5136,Yellow Banana,2023,484
+5137,TransUnion,2022,824
+5138,TransUnion,2020,830
+5139,Yellow Banana,2024,684
+5140,Equifax,2021,378
+5141,Experian,2023,378
+5142,Equifax,2023,774
+5143,Yellow Banana,2024,648
+5144,TransUnion,2023,731
+5145,TransUnion,2021,765
+5146,Experian,2023,850
+5147,Yellow Banana,2020,729
+5148,TransUnion,2021,417
+5149,Yellow Banana,2021,726
+5150,Yellow Banana,2023,808
+5151,Equifax,2020,407
+5152,Equifax,2022,568
+5153,TransUnion,2024,324
+5154,Equifax,2021,330
+5155,TransUnion,2021,412
+5156,Yellow Banana,2021,369
+5157,Experian,2023,378
+5158,TransUnion,2024,563
+5159,TransUnion,2022,651
+5160,Equifax,2022,710
+5161,TransUnion,2023,778
+5162,TransUnion,2020,620
+5163,TransUnion,2024,680
+5164,Yellow Banana,2021,542
+5165,Yellow Banana,2022,306
+5166,TransUnion,2022,850
+5167,Experian,2024,729
+5168,TransUnion,2023,324
+5169,Yellow Banana,2024,841
+5170,TransUnion,2022,311
+5171,Equifax,2023,591
+5172,Equifax,2021,742
+5173,TransUnion,2022,459
+5174,Yellow Banana,2024,676
+5175,Equifax,2024,312
+5176,Yellow Banana,2023,356
+5177,TransUnion,2023,441
+5178,TransUnion,2023,626
+5179,Equifax,2021,416
+5180,Yellow Banana,2021,502
+5181,Equifax,2023,492
+5182,TransUnion,2024,493
+5183,Experian,2020,679
+5184,Experian,2021,493
+5185,Equifax,2023,613
+5186,TransUnion,2024,751
+5187,TransUnion,2020,603
+5188,Equifax,2024,390
+5189,TransUnion,2024,820
+5190,Yellow Banana,2024,419
+5191,TransUnion,2023,803
+5192,Equifax,2024,422
+5193,TransUnion,2021,598
+5194,Experian,2022,843
+5195,Yellow Banana,2024,641
+5196,Experian,2021,302
+5197,Equifax,2021,720
+5198,Equifax,2020,830
+5199,Experian,2024,427
+5200,Experian,2024,632
+5201,Experian,2023,781
+5202,Experian,2024,475
+5203,Equifax,2023,548
+5204,Yellow Banana,2022,506
+5205,Experian,2020,836
+5206,Equifax,2024,666
+5207,Equifax,2020,503
+5208,Experian,2022,684
+5209,Yellow Banana,2024,482
+5210,TransUnion,2020,774
+5211,TransUnion,2022,850
+5212,Yellow Banana,2020,362
+5213,Equifax,2020,812
+5214,Experian,2020,558
+5215,TransUnion,2023,656
+5216,TransUnion,2022,603
+5217,Experian,2020,525
+5218,Experian,2023,326
+5219,TransUnion,2020,785
+5220,Yellow Banana,2020,559
+5221,Equifax,2020,345
+5222,Experian,2024,538
+5223,Yellow Banana,2022,498
+5224,Equifax,2022,629
+5225,Experian,2021,544
+5226,Experian,2020,578
+5227,Equifax,2020,533
+5228,Equifax,2023,773
+5229,Experian,2023,504
+5230,Yellow Banana,2024,722
+5231,TransUnion,2024,815
+5232,Equifax,2020,688
+5233,Equifax,2021,534
+5234,TransUnion,2020,674
+5235,TransUnion,2020,697
+5236,Equifax,2023,316
+5237,Yellow Banana,2023,746
+5238,Experian,2023,818
+5239,Yellow Banana,2020,715
+5240,Experian,2022,423
+5241,Experian,2020,578
+5242,Experian,2023,318
+5243,Yellow Banana,2021,311
+5244,TransUnion,2024,550
+5245,Yellow Banana,2023,738
+5246,Equifax,2024,723
+5247,Equifax,2022,519
+5248,Equifax,2023,479
+5249,Equifax,2023,436
+5250,Yellow Banana,2021,791
+5251,Equifax,2024,463
+5252,Experian,2020,417
+5253,Yellow Banana,2021,305
+5254,Equifax,2021,797
+5255,Equifax,2022,516
+5256,Yellow Banana,2024,793
+5257,Experian,2023,462
+5258,Yellow Banana,2023,336
+5259,Equifax,2024,709
+5260,Equifax,2022,697
+5261,Experian,2022,562
+5262,Yellow Banana,2021,791
+5263,TransUnion,2022,667
+5264,TransUnion,2021,350
+5265,Yellow Banana,2023,677
+5266,TransUnion,2021,642
+5267,Equifax,2024,569
+5268,Experian,2021,419
+5269,Experian,2021,511
+5270,Experian,2022,747
+5271,Yellow Banana,2020,517
+5272,Experian,2020,589
+5273,Equifax,2021,642
+5274,TransUnion,2022,559
+5275,Equifax,2020,584
+5276,Experian,2023,434
+5277,Equifax,2022,792
+5278,Yellow Banana,2021,570
+5279,Equifax,2022,497
+5280,Yellow Banana,2022,615
+5281,Yellow Banana,2024,334
+5282,Experian,2024,632
+5283,Experian,2021,828
+5284,Experian,2021,700
+5285,TransUnion,2021,832
+5286,TransUnion,2024,728
+5287,Equifax,2022,716
+5288,Yellow Banana,2023,415
+5289,Equifax,2021,587
+5290,TransUnion,2020,803
+5291,Yellow Banana,2024,666
+5292,Experian,2022,808
+5293,Experian,2023,594
+5294,Equifax,2020,847
+5295,Equifax,2021,761
+5296,Equifax,2021,414
+5297,Experian,2022,753
+5298,Experian,2023,772
+5299,Yellow Banana,2023,339
+5300,Equifax,2024,841
+5301,Equifax,2024,748
+5302,TransUnion,2023,737
+5303,TransUnion,2024,762
+5304,Equifax,2023,563
+5305,Yellow Banana,2022,641
+5306,TransUnion,2024,742
+5307,Experian,2020,333
+5308,TransUnion,2020,755
+5309,TransUnion,2024,738
+5310,TransUnion,2020,714
+5311,Yellow Banana,2023,337
+5312,Equifax,2022,624
+5313,TransUnion,2023,834
+5314,Experian,2021,670
+5315,Yellow Banana,2023,760
+5316,Yellow Banana,2023,742
+5317,Experian,2021,809
+5318,Experian,2022,680
+5319,TransUnion,2022,622
+5320,TransUnion,2023,509
+5321,TransUnion,2023,833
+5322,Yellow Banana,2024,413
+5323,TransUnion,2023,715
+5324,Yellow Banana,2020,537
+5325,Equifax,2021,373
+5326,Equifax,2022,461
+5327,Yellow Banana,2024,648
+5328,Yellow Banana,2022,498
+5329,Equifax,2021,329
+5330,TransUnion,2021,522
+5331,TransUnion,2022,414
+5332,TransUnion,2020,649
+5333,Equifax,2023,362
+5334,TransUnion,2024,320
+5335,Experian,2023,408
+5336,Equifax,2021,653
+5337,Equifax,2021,679
+5338,TransUnion,2022,327
+5339,TransUnion,2024,691
+5340,Equifax,2024,568
+5341,Experian,2024,444
+5342,TransUnion,2024,581
+5343,Equifax,2024,412
+5344,Yellow Banana,2020,417
+5345,TransUnion,2021,343
+5346,TransUnion,2022,758
+5347,Experian,2023,676
+5348,Experian,2022,394
+5349,Equifax,2022,434
+5350,Equifax,2020,488
+5351,Equifax,2024,708
+5352,Yellow Banana,2021,561
+5353,Experian,2020,525
+5354,Yellow Banana,2024,795
+5355,Yellow Banana,2020,465
+5356,Equifax,2020,408
+5357,Yellow Banana,2021,629
+5358,Yellow Banana,2024,662
+5359,Experian,2024,574
+5360,Experian,2021,563
+5361,TransUnion,2024,550
+5362,Yellow Banana,2021,788
+5363,Yellow Banana,2021,551
+5364,TransUnion,2022,513
+5365,TransUnion,2024,377
+5366,Yellow Banana,2020,360
+5367,Equifax,2023,589
+5368,Yellow Banana,2022,578
+5369,Yellow Banana,2024,835
+5370,Experian,2024,825
+5371,Equifax,2022,838
+5372,Equifax,2021,559
+5373,TransUnion,2024,569
+5374,Experian,2023,469
+5375,Equifax,2022,796
+5376,Equifax,2024,758
+5377,Equifax,2020,632
+5378,Yellow Banana,2024,803
+5379,Equifax,2022,792
+5380,Equifax,2023,546
+5381,Experian,2024,562
+5382,TransUnion,2020,578
+5383,Experian,2023,799
+5384,Equifax,2021,487
+5385,Yellow Banana,2023,651
+5386,Experian,2022,548
+5387,Experian,2021,424
+5388,Experian,2020,748
+5389,Equifax,2023,471
+5390,Experian,2021,470
+5391,TransUnion,2020,546
+5392,TransUnion,2024,594
+5393,Equifax,2020,413
+5394,TransUnion,2023,737
+5395,TransUnion,2024,526
+5396,Experian,2021,501
+5397,Yellow Banana,2020,340
+5398,Equifax,2022,456
+5399,Yellow Banana,2021,606
+5400,Equifax,2021,768
+5401,TransUnion,2024,391
+5402,Yellow Banana,2020,599
+5403,Yellow Banana,2020,388
+5404,Yellow Banana,2022,508
+5405,Experian,2024,380
+5406,Equifax,2020,662
+5407,Experian,2024,467
+5408,Equifax,2023,839
+5409,Yellow Banana,2024,412
+5410,TransUnion,2023,417
+5411,Equifax,2022,623
+5412,Equifax,2022,501
+5413,Experian,2022,387
+5414,Yellow Banana,2021,820
+5415,Experian,2022,531
+5416,Yellow Banana,2024,484
+5417,TransUnion,2020,336
+5418,Yellow Banana,2022,371
+5419,Equifax,2021,671
+5420,Experian,2023,811
+5421,Experian,2023,650
+5422,Experian,2024,388
+5423,Experian,2023,827
+5424,TransUnion,2022,319
+5425,Yellow Banana,2023,354
+5426,Yellow Banana,2021,849
+5427,TransUnion,2024,479
+5428,TransUnion,2020,463
+5429,Experian,2023,581
+5430,Experian,2024,565
+5431,TransUnion,2020,522
+5432,Experian,2020,796
+5433,Equifax,2022,343
+5434,Yellow Banana,2024,386
+5435,Experian,2024,309
+5436,TransUnion,2021,797
+5437,Equifax,2023,829
+5438,Yellow Banana,2023,692
+5439,Equifax,2022,693
+5440,Experian,2020,465
+5441,Experian,2021,361
+5442,TransUnion,2023,809
+5443,Equifax,2023,349
+5444,Yellow Banana,2022,344
+5445,Experian,2023,445
+5446,Experian,2023,440
+5447,TransUnion,2022,649
+5448,Equifax,2023,470
+5449,Experian,2021,844
+5450,Yellow Banana,2024,817
+5451,Yellow Banana,2020,374
+5452,TransUnion,2023,802
+5453,Equifax,2023,390
+5454,Yellow Banana,2024,629
+5455,Equifax,2020,434
+5456,Yellow Banana,2022,410
+5457,Yellow Banana,2021,844
+5458,Yellow Banana,2021,466
+5459,Equifax,2020,649
+5460,Experian,2024,498
+5461,Experian,2021,379
+5462,Experian,2021,506
+5463,Experian,2023,588
+5464,TransUnion,2024,393
+5465,TransUnion,2022,561
+5466,Equifax,2020,579
+5467,Yellow Banana,2020,391
+5468,Yellow Banana,2022,813
+5469,Equifax,2024,602
+5470,TransUnion,2023,613
+5471,TransUnion,2021,839
+5472,Experian,2020,576
+5473,Experian,2024,693
+5474,TransUnion,2022,382
+5475,Yellow Banana,2021,661
+5476,TransUnion,2021,662
+5477,Experian,2022,802
+5478,Equifax,2023,633
+5479,TransUnion,2024,408
+5480,Equifax,2022,476
+5481,Experian,2022,721
+5482,Equifax,2023,785
+5483,Experian,2023,532
+5484,Equifax,2024,448
+5485,Yellow Banana,2023,517
+5486,Equifax,2024,321
+5487,Yellow Banana,2023,392
+5488,Equifax,2022,839
+5489,Experian,2021,479
+5490,Yellow Banana,2024,602
+5491,TransUnion,2024,563
+5492,Yellow Banana,2022,826
+5493,Equifax,2022,684
+5494,TransUnion,2020,452
+5495,Experian,2023,754
+5496,Experian,2020,382
+5497,TransUnion,2021,794
+5498,TransUnion,2023,830
+5499,TransUnion,2021,490
+5500,Experian,2021,441
+5501,TransUnion,2020,792
+5502,Yellow Banana,2022,375
+5503,Yellow Banana,2020,436
+5504,Yellow Banana,2021,314
+5505,Equifax,2023,732
+5506,Yellow Banana,2021,716
+5507,Equifax,2021,503
+5508,Experian,2022,413
+5509,Experian,2023,541
+5510,Yellow Banana,2021,592
+5511,Equifax,2023,352
+5512,Yellow Banana,2024,725
+5513,Experian,2023,810
+5514,Experian,2021,311
+5515,Yellow Banana,2020,510
+5516,Experian,2024,605
+5517,Experian,2020,835
+5518,TransUnion,2024,714
+5519,TransUnion,2021,674
+5520,Yellow Banana,2024,716
+5521,Experian,2021,641
+5522,Equifax,2022,662
+5523,TransUnion,2024,490
+5524,TransUnion,2022,799
+5525,Equifax,2024,362
+5526,TransUnion,2024,421
+5527,Experian,2023,644
+5528,Equifax,2021,616
+5529,TransUnion,2020,403
+5530,Experian,2024,376
+5531,TransUnion,2021,747
+5532,Experian,2023,366
+5533,TransUnion,2021,548
+5534,Equifax,2020,393
+5535,TransUnion,2021,323
+5536,TransUnion,2024,616
+5537,Yellow Banana,2024,575
+5538,Yellow Banana,2023,829
+5539,TransUnion,2022,711
+5540,Experian,2020,820
+5541,TransUnion,2023,794
+5542,Equifax,2020,587
+5543,Experian,2020,381
+5544,Equifax,2021,505
+5545,TransUnion,2020,621
+5546,Experian,2022,431
+5547,Experian,2023,658
+5548,Experian,2024,718
+5549,Yellow Banana,2022,574
+5550,Yellow Banana,2021,375
+5551,TransUnion,2020,744
+5552,Equifax,2020,697
+5553,Equifax,2022,761
+5554,Yellow Banana,2024,847
+5555,Equifax,2021,514
+5556,Experian,2024,346
+5557,Experian,2021,369
+5558,Equifax,2023,623
+5559,Experian,2021,393
+5560,Yellow Banana,2021,539
+5561,Equifax,2021,409
+5562,Experian,2024,693
+5563,Experian,2023,355
+5564,Experian,2022,367
+5565,Equifax,2021,605
+5566,Experian,2021,348
+5567,Experian,2023,838
+5568,Experian,2022,616
+5569,Yellow Banana,2021,800
+5570,TransUnion,2020,791
+5571,Yellow Banana,2021,794
+5572,TransUnion,2023,744
+5573,TransUnion,2023,462
+5574,Yellow Banana,2022,407
+5575,Experian,2022,732
+5576,Experian,2022,722
+5577,TransUnion,2021,454
+5578,Yellow Banana,2021,418
+5579,Equifax,2021,462
+5580,Equifax,2020,580
+5581,TransUnion,2023,585
+5582,Yellow Banana,2021,563
+5583,Yellow Banana,2023,498
+5584,Experian,2020,756
+5585,TransUnion,2022,665
+5586,Equifax,2023,370
+5587,TransUnion,2020,591
+5588,Yellow Banana,2021,757
+5589,TransUnion,2020,388
+5590,Yellow Banana,2023,503
+5591,Yellow Banana,2020,795
+5592,Equifax,2024,464
+5593,Experian,2021,631
+5594,Equifax,2020,718
+5595,TransUnion,2020,827
+5596,Yellow Banana,2023,541
+5597,Equifax,2020,339
+5598,TransUnion,2020,801
+5599,Equifax,2024,690
+5600,Yellow Banana,2021,763
+5601,TransUnion,2023,503
+5602,Equifax,2023,437
+5603,TransUnion,2024,716
+5604,Equifax,2023,734
+5605,Yellow Banana,2021,743
+5606,Experian,2022,634
+5607,Experian,2022,361
+5608,Equifax,2021,702
+5609,Experian,2023,706
+5610,Experian,2020,350
+5611,Yellow Banana,2021,651
+5612,Equifax,2022,371
+5613,Experian,2020,664
+5614,Experian,2021,323
+5615,Yellow Banana,2022,829
+5616,Equifax,2024,768
+5617,Experian,2021,338
+5618,Yellow Banana,2024,617
+5619,Experian,2024,489
+5620,Equifax,2021,427
+5621,TransUnion,2023,340
+5622,Experian,2023,524
+5623,Equifax,2021,460
+5624,TransUnion,2023,519
+5625,Equifax,2021,699
+5626,TransUnion,2024,634
+5627,Yellow Banana,2022,644
+5628,Equifax,2023,467
+5629,TransUnion,2023,795
+5630,TransUnion,2023,481
+5631,Equifax,2023,475
+5632,Equifax,2021,373
+5633,Experian,2024,406
+5634,TransUnion,2024,394
+5635,Yellow Banana,2021,402
+5636,Yellow Banana,2021,730
+5637,Experian,2024,472
+5638,Equifax,2021,418
+5639,TransUnion,2024,472
+5640,Equifax,2023,841
+5641,Equifax,2020,358
+5642,TransUnion,2023,833
+5643,Experian,2021,402
+5644,Experian,2020,328
+5645,Experian,2021,379
+5646,Experian,2022,806
+5647,TransUnion,2022,811
+5648,Equifax,2023,665
+5649,Experian,2021,536
+5650,Experian,2022,641
+5651,Experian,2023,578
+5652,TransUnion,2023,375
+5653,Experian,2021,415
+5654,Experian,2022,698
+5655,TransUnion,2022,617
+5656,TransUnion,2024,782
+5657,Experian,2021,536
+5658,Equifax,2022,446
+5659,Equifax,2021,474
+5660,Experian,2024,402
+5661,Experian,2021,331
+5662,TransUnion,2021,423
+5663,TransUnion,2024,764
+5664,TransUnion,2022,434
+5665,Experian,2022,351
+5666,Equifax,2022,341
+5667,Yellow Banana,2024,844
+5668,Yellow Banana,2021,585
+5669,Experian,2021,387
+5670,TransUnion,2024,305
+5671,TransUnion,2021,375
+5672,TransUnion,2024,723
+5673,Experian,2023,311
+5674,Yellow Banana,2021,325
+5675,Experian,2023,850
+5676,TransUnion,2024,390
+5677,Experian,2024,534
+5678,Experian,2021,608
+5679,Equifax,2023,385
+5680,Experian,2023,744
+5681,Yellow Banana,2022,615
+5682,Equifax,2022,571
+5683,TransUnion,2024,661
+5684,Equifax,2024,564
+5685,Experian,2022,548
+5686,Experian,2020,390
+5687,Yellow Banana,2024,445
+5688,Yellow Banana,2022,808
+5689,TransUnion,2020,411
+5690,TransUnion,2020,383
+5691,TransUnion,2021,404
+5692,Experian,2023,549
+5693,Experian,2022,668
+5694,Equifax,2020,724
+5695,Equifax,2021,445
+5696,Yellow Banana,2024,822
+5697,TransUnion,2023,605
+5698,TransUnion,2021,788
+5699,TransUnion,2020,486
+5700,Yellow Banana,2020,336
+5701,Experian,2021,640
+5702,TransUnion,2020,430
+5703,Yellow Banana,2023,524
+5704,Yellow Banana,2024,797
+5705,Experian,2024,529
+5706,Experian,2022,686
+5707,Yellow Banana,2024,444
+5708,Yellow Banana,2024,601
+5709,Equifax,2021,742
+5710,Equifax,2023,666
+5711,Experian,2024,563
+5712,Yellow Banana,2023,391
+5713,Yellow Banana,2023,680
+5714,TransUnion,2020,634
+5715,Experian,2021,373
+5716,Equifax,2020,762
+5717,Equifax,2024,556
+5718,TransUnion,2022,398
+5719,Yellow Banana,2024,713
+5720,Equifax,2024,663
+5721,Equifax,2023,556
+5722,TransUnion,2020,419
+5723,TransUnion,2021,485
+5724,TransUnion,2023,604
+5725,Experian,2021,815
+5726,Experian,2022,410
+5727,Equifax,2020,584
+5728,Yellow Banana,2021,742
+5729,Equifax,2022,347
+5730,Experian,2024,386
+5731,Experian,2023,383
+5732,Yellow Banana,2024,562
+5733,Equifax,2021,481
+5734,Experian,2022,441
+5735,Yellow Banana,2021,755
+5736,Equifax,2023,467
+5737,Yellow Banana,2024,530
+5738,Experian,2021,518
+5739,Equifax,2023,666
+5740,Experian,2021,626
+5741,TransUnion,2023,835
+5742,TransUnion,2021,782
+5743,Equifax,2023,527
+5744,Yellow Banana,2024,335
+5745,Experian,2021,805
+5746,TransUnion,2024,444
+5747,Experian,2022,491
+5748,Experian,2020,310
+5749,Equifax,2020,734
+5750,Experian,2024,433
+5751,Yellow Banana,2023,660
+5752,Experian,2024,735
+5753,Equifax,2022,463
+5754,TransUnion,2023,519
+5755,TransUnion,2024,386
+5756,Equifax,2023,350
+5757,Yellow Banana,2023,681
+5758,Yellow Banana,2022,735
+5759,Experian,2022,665
+5760,Equifax,2021,622
+5761,Yellow Banana,2020,505
+5762,Yellow Banana,2022,384
+5763,Equifax,2021,313
+5764,TransUnion,2022,734
+5765,TransUnion,2022,633
+5766,Yellow Banana,2024,327
+5767,TransUnion,2021,587
+5768,TransUnion,2022,447
+5769,Experian,2020,333
+5770,TransUnion,2021,320
+5771,Yellow Banana,2022,791
+5772,TransUnion,2020,612
+5773,Equifax,2023,585
+5774,Equifax,2021,658
+5775,Equifax,2023,313
+5776,Equifax,2020,672
+5777,TransUnion,2020,363
+5778,Yellow Banana,2024,578
+5779,Equifax,2023,735
+5780,Experian,2020,645
+5781,Experian,2020,396
+5782,Experian,2023,437
+5783,Equifax,2022,359
+5784,Equifax,2023,686
+5785,Experian,2024,671
+5786,Experian,2021,689
+5787,Equifax,2023,768
+5788,Experian,2022,823
+5789,Experian,2022,397
+5790,TransUnion,2022,457
+5791,Equifax,2021,789
+5792,Equifax,2024,838
+5793,Experian,2023,740
+5794,Yellow Banana,2023,684
+5795,Experian,2024,698
+5796,TransUnion,2023,648
+5797,TransUnion,2022,503
+5798,Yellow Banana,2020,474
+5799,Experian,2024,794
+5800,Equifax,2021,667
+5801,Yellow Banana,2023,609
+5802,Yellow Banana,2021,470
+5803,Equifax,2024,831
+5804,Experian,2021,317
+5805,Experian,2022,366
+5806,Equifax,2021,693
+5807,Equifax,2020,796
+5808,Equifax,2021,613
+5809,Experian,2020,792
+5810,Yellow Banana,2023,798
+5811,Yellow Banana,2023,383
+5812,Experian,2021,491
+5813,Equifax,2020,602
+5814,Yellow Banana,2024,603
+5815,Yellow Banana,2024,469
+5816,Equifax,2023,357
+5817,Equifax,2021,759
+5818,Equifax,2022,792
+5819,TransUnion,2021,619
+5820,Yellow Banana,2021,738
+5821,Yellow Banana,2020,661
+5822,Yellow Banana,2024,624
+5823,TransUnion,2020,649
+5824,TransUnion,2021,462
+5825,Equifax,2023,353
+5826,Experian,2020,776
+5827,Experian,2020,755
+5828,TransUnion,2021,451
+5829,TransUnion,2024,401
+5830,Equifax,2022,758
+5831,TransUnion,2023,430
+5832,TransUnion,2021,336
+5833,Yellow Banana,2020,726
+5834,Equifax,2024,389
+5835,Equifax,2024,454
+5836,Experian,2021,453
+5837,Yellow Banana,2024,313
+5838,Experian,2022,361
+5839,Yellow Banana,2022,600
+5840,Yellow Banana,2022,706
+5841,Experian,2024,426
+5842,Experian,2024,406
+5843,Equifax,2021,822
+5844,TransUnion,2021,413
+5845,Yellow Banana,2021,734
+5846,TransUnion,2023,492
+5847,Equifax,2024,448
+5848,TransUnion,2022,772
+5849,Experian,2023,449
+5850,TransUnion,2022,481
+5851,Experian,2023,732
+5852,Yellow Banana,2020,844
+5853,Experian,2021,347
+5854,Yellow Banana,2023,779
+5855,Experian,2020,753
+5856,Equifax,2024,479
+5857,TransUnion,2024,721
+5858,Equifax,2022,328
+5859,Yellow Banana,2023,753
+5860,Yellow Banana,2021,824
+5861,Yellow Banana,2021,801
+5862,Experian,2021,746
+5863,TransUnion,2020,523
+5864,Experian,2023,578
+5865,TransUnion,2024,790
+5866,Experian,2023,792
+5867,Equifax,2021,486
+5868,Experian,2023,632
+5869,Yellow Banana,2024,400
+5870,Yellow Banana,2020,485
+5871,Yellow Banana,2023,587
+5872,TransUnion,2021,642
+5873,Equifax,2023,475
+5874,Yellow Banana,2023,723
+5875,Experian,2023,597
+5876,Equifax,2024,469
+5877,Yellow Banana,2021,699
+5878,TransUnion,2023,776
+5879,Experian,2020,742
+5880,Experian,2023,447
+5881,Yellow Banana,2021,786
+5882,Equifax,2020,346
+5883,TransUnion,2022,341
+5884,Yellow Banana,2024,318
+5885,TransUnion,2024,474
+5886,Yellow Banana,2024,722
+5887,TransUnion,2020,674
+5888,Equifax,2023,698
+5889,TransUnion,2020,455
+5890,Experian,2021,796
+5891,Equifax,2020,752
+5892,Experian,2024,384
+5893,Equifax,2024,710
+5894,Yellow Banana,2022,338
+5895,TransUnion,2020,846
+5896,TransUnion,2021,632
+5897,Experian,2020,636
+5898,Equifax,2020,305
+5899,Equifax,2024,583
+5900,Equifax,2023,747
+5901,TransUnion,2024,806
+5902,TransUnion,2024,339
+5903,TransUnion,2020,823
+5904,Equifax,2023,490
+5905,Yellow Banana,2020,634
+5906,Experian,2023,374
+5907,TransUnion,2024,677
+5908,Experian,2024,700
+5909,Yellow Banana,2023,387
+5910,Yellow Banana,2020,371
+5911,Yellow Banana,2023,738
+5912,Equifax,2022,686
+5913,TransUnion,2023,678
+5914,TransUnion,2024,724
+5915,Experian,2022,503
+5916,TransUnion,2022,355
+5917,TransUnion,2020,667
+5918,Experian,2020,397
+5919,TransUnion,2023,544
+5920,Yellow Banana,2024,831
+5921,Yellow Banana,2021,632
+5922,Experian,2023,527
+5923,Yellow Banana,2023,613
+5924,Experian,2024,642
+5925,Yellow Banana,2024,354
+5926,TransUnion,2023,685
+5927,Yellow Banana,2021,758
+5928,Equifax,2022,565
+5929,Experian,2023,746
+5930,Yellow Banana,2020,659
+5931,Equifax,2022,495
+5932,Yellow Banana,2023,458
+5933,Experian,2020,448
+5934,Experian,2023,753
+5935,Equifax,2021,628
+5936,TransUnion,2022,609
+5937,Experian,2020,503
+5938,TransUnion,2024,519
+5939,Experian,2024,355
+5940,Yellow Banana,2024,468
+5941,Yellow Banana,2024,459
+5942,TransUnion,2021,585
+5943,Experian,2024,744
+5944,Experian,2020,432
+5945,Yellow Banana,2023,393
+5946,Yellow Banana,2021,798
+5947,TransUnion,2021,365
+5948,Yellow Banana,2024,588
+5949,Yellow Banana,2024,338
+5950,Experian,2024,809
+5951,TransUnion,2023,547
+5952,Equifax,2024,684
+5953,TransUnion,2024,589
+5954,TransUnion,2021,686
+5955,TransUnion,2022,767
+5956,Yellow Banana,2021,512
+5957,Yellow Banana,2021,375
+5958,Yellow Banana,2023,618
+5959,Experian,2021,611
+5960,Yellow Banana,2021,499
+5961,Experian,2024,611
+5962,Experian,2024,732
+5963,Yellow Banana,2023,461
+5964,Equifax,2022,823
+5965,TransUnion,2022,338
+5966,TransUnion,2023,711
+5967,TransUnion,2021,313
+5968,Equifax,2020,759
+5969,TransUnion,2023,390
+5970,Experian,2020,808
+5971,Equifax,2021,791
+5972,Equifax,2023,481
+5973,Equifax,2024,364
+5974,Experian,2024,339
+5975,Yellow Banana,2023,824
+5976,Equifax,2020,567
+5977,Experian,2020,552
+5978,Equifax,2023,546
+5979,Experian,2024,358
+5980,Experian,2021,370
+5981,Yellow Banana,2021,338
+5982,Equifax,2022,376
+5983,TransUnion,2024,432
+5984,Experian,2020,637
+5985,Yellow Banana,2023,417
+5986,Equifax,2021,301
+5987,Equifax,2024,560
+5988,Yellow Banana,2023,539
+5989,Experian,2024,790
+5990,Yellow Banana,2021,469
+5991,Yellow Banana,2021,332
+5992,Yellow Banana,2024,736
+5993,Equifax,2022,761
+5994,Yellow Banana,2020,617
+5995,Yellow Banana,2021,475
+5996,Yellow Banana,2024,582
+5997,Experian,2021,768
+5998,Equifax,2020,548
+5999,TransUnion,2021,836
+6000,TransUnion,2023,477
+6001,TransUnion,2021,356
+6002,Yellow Banana,2023,827
+6003,Equifax,2024,641
+6004,Yellow Banana,2021,742
+6005,TransUnion,2023,641
+6006,Yellow Banana,2023,702
+6007,Yellow Banana,2024,813
+6008,Experian,2024,585
+6009,Experian,2021,301
+6010,Equifax,2020,337
+6011,Yellow Banana,2022,604
+6012,Yellow Banana,2022,601
+6013,Yellow Banana,2023,355
+6014,Equifax,2022,558
+6015,Yellow Banana,2024,715
+6016,Equifax,2021,780
+6017,TransUnion,2022,382
+6018,Yellow Banana,2024,684
+6019,Experian,2021,788
+6020,TransUnion,2020,314
+6021,Yellow Banana,2021,577
+6022,Equifax,2023,683
+6023,Yellow Banana,2023,547
+6024,Experian,2024,349
+6025,Equifax,2022,465
+6026,Experian,2020,584
+6027,Yellow Banana,2020,388
+6028,Experian,2020,725
+6029,Experian,2022,646
+6030,Yellow Banana,2021,707
+6031,Experian,2023,488
+6032,Experian,2022,409
+6033,Experian,2021,706
+6034,TransUnion,2024,669
+6035,Yellow Banana,2020,376
+6036,TransUnion,2024,343
+6037,Yellow Banana,2024,368
+6038,Experian,2020,507
+6039,Yellow Banana,2023,379
+6040,Experian,2023,616
+6041,TransUnion,2023,611
+6042,TransUnion,2022,409
+6043,Equifax,2024,776
+6044,Equifax,2023,579
+6045,Experian,2021,772
+6046,Equifax,2021,494
+6047,TransUnion,2021,802
+6048,Equifax,2024,447
+6049,TransUnion,2023,652
+6050,Equifax,2020,687
+6051,Experian,2021,540
+6052,Equifax,2022,692
+6053,Experian,2023,359
+6054,TransUnion,2023,825
+6055,Experian,2020,792
+6056,Yellow Banana,2021,536
+6057,TransUnion,2023,691
+6058,TransUnion,2024,383
+6059,TransUnion,2023,549
+6060,TransUnion,2023,434
+6061,TransUnion,2024,827
+6062,Yellow Banana,2022,571
+6063,Yellow Banana,2020,507
+6064,Equifax,2021,712
+6065,Equifax,2020,431
+6066,Equifax,2020,468
+6067,TransUnion,2023,512
+6068,Equifax,2022,472
+6069,Equifax,2020,760
+6070,TransUnion,2020,354
+6071,Equifax,2021,464
+6072,TransUnion,2021,814
+6073,Equifax,2021,339
+6074,TransUnion,2022,567
+6075,TransUnion,2022,409
+6076,Experian,2022,765
+6077,Yellow Banana,2024,672
+6078,Yellow Banana,2023,671
+6079,TransUnion,2021,672
+6080,Equifax,2024,691
+6081,Experian,2021,784
+6082,Yellow Banana,2021,409
+6083,Equifax,2020,331
+6084,TransUnion,2021,556
+6085,Equifax,2022,767
+6086,TransUnion,2020,692
+6087,Experian,2023,475
+6088,Equifax,2022,628
+6089,Equifax,2020,504
+6090,TransUnion,2024,388
+6091,Experian,2022,629
+6092,TransUnion,2020,432
+6093,Equifax,2023,776
+6094,Yellow Banana,2023,574
+6095,Experian,2024,524
+6096,TransUnion,2024,814
+6097,Experian,2024,434
+6098,Experian,2022,324
+6099,Equifax,2020,617
+6100,Yellow Banana,2023,736
+6101,Yellow Banana,2020,535
+6102,Experian,2020,743
+6103,Equifax,2023,490
+6104,Equifax,2022,721
+6105,Yellow Banana,2023,688
+6106,Yellow Banana,2021,441
+6107,TransUnion,2022,696
+6108,TransUnion,2024,576
+6109,Yellow Banana,2020,551
+6110,Equifax,2024,591
+6111,Yellow Banana,2024,663
+6112,Equifax,2024,665
+6113,Equifax,2024,813
+6114,TransUnion,2020,328
+6115,Experian,2020,802
+6116,Experian,2020,378
+6117,TransUnion,2021,716
+6118,Yellow Banana,2020,673
+6119,TransUnion,2020,434
+6120,Yellow Banana,2024,689
+6121,Equifax,2023,475
+6122,TransUnion,2021,604
+6123,Yellow Banana,2022,522
+6124,TransUnion,2022,660
+6125,TransUnion,2023,334
+6126,TransUnion,2022,531
+6127,Experian,2021,548
+6128,TransUnion,2022,658
+6129,TransUnion,2021,745
+6130,Equifax,2020,390
+6131,TransUnion,2022,535
+6132,Equifax,2020,773
+6133,Equifax,2023,696
+6134,Yellow Banana,2020,433
+6135,Experian,2020,642
+6136,Experian,2021,632
+6137,Equifax,2021,525
+6138,Equifax,2023,506
+6139,TransUnion,2020,319
+6140,TransUnion,2021,656
+6141,Experian,2023,616
+6142,Equifax,2022,695
+6143,TransUnion,2023,388
+6144,TransUnion,2023,830
+6145,TransUnion,2021,352
+6146,Equifax,2021,401
+6147,Experian,2020,487
+6148,Yellow Banana,2022,567
+6149,Equifax,2022,679
+6150,Equifax,2021,620
+6151,Experian,2020,446
+6152,Equifax,2022,828
+6153,Experian,2024,437
+6154,TransUnion,2023,729
+6155,TransUnion,2022,508
+6156,Yellow Banana,2022,756
+6157,Equifax,2020,623
+6158,Equifax,2020,442
+6159,Experian,2024,531
+6160,Experian,2024,597
+6161,TransUnion,2021,580
+6162,Equifax,2024,441
+6163,TransUnion,2022,805
+6164,Equifax,2021,672
+6165,Yellow Banana,2021,412
+6166,Equifax,2023,433
+6167,Yellow Banana,2024,300
+6168,Yellow Banana,2021,538
+6169,TransUnion,2020,350
+6170,Equifax,2021,640
+6171,Experian,2022,725
+6172,Equifax,2024,795
+6173,TransUnion,2023,603
+6174,Yellow Banana,2024,391
+6175,Experian,2024,751
+6176,Yellow Banana,2024,763
+6177,Equifax,2023,370
+6178,Equifax,2020,745
+6179,Equifax,2023,717
+6180,Yellow Banana,2021,316
+6181,Equifax,2024,837
+6182,Yellow Banana,2023,590
+6183,Experian,2022,827
+6184,Yellow Banana,2021,405
+6185,Experian,2024,348
+6186,Yellow Banana,2020,416
+6187,Yellow Banana,2024,500
+6188,Experian,2023,838
+6189,TransUnion,2023,512
+6190,TransUnion,2022,680
+6191,Equifax,2023,537
+6192,TransUnion,2020,816
+6193,Equifax,2023,458
+6194,Yellow Banana,2023,695
+6195,Equifax,2021,449
+6196,Experian,2023,571
+6197,Yellow Banana,2021,584
+6198,TransUnion,2024,772
+6199,Experian,2024,367
+6200,TransUnion,2024,565
+6201,TransUnion,2022,332
+6202,Experian,2020,709
+6203,Experian,2023,729
+6204,TransUnion,2020,629
+6205,TransUnion,2020,403
+6206,Equifax,2020,697
+6207,Experian,2020,338
+6208,Experian,2022,538
+6209,TransUnion,2022,742
+6210,Experian,2022,491
+6211,Experian,2023,796
+6212,TransUnion,2023,391
+6213,Experian,2023,708
+6214,Experian,2021,818
+6215,Experian,2024,603
+6216,TransUnion,2022,437
+6217,Experian,2022,805
+6218,Yellow Banana,2023,833
+6219,Yellow Banana,2023,307
+6220,Experian,2021,639
+6221,TransUnion,2021,335
+6222,TransUnion,2021,470
+6223,Equifax,2021,350
+6224,Experian,2022,680
+6225,Equifax,2020,733
+6226,Equifax,2024,511
+6227,Yellow Banana,2021,554
+6228,Yellow Banana,2022,635
+6229,Equifax,2020,494
+6230,Experian,2022,730
+6231,Equifax,2020,384
+6232,Experian,2024,510
+6233,Equifax,2023,376
+6234,Equifax,2020,498
+6235,Yellow Banana,2024,499
+6236,Yellow Banana,2023,781
+6237,Experian,2020,812
+6238,TransUnion,2022,606
+6239,Yellow Banana,2024,753
+6240,Yellow Banana,2021,506
+6241,Equifax,2022,308
+6242,Experian,2022,674
+6243,Equifax,2021,844
+6244,TransUnion,2024,452
+6245,TransUnion,2023,715
+6246,Experian,2021,784
+6247,Experian,2020,497
+6248,Experian,2021,818
+6249,Equifax,2022,487
+6250,Yellow Banana,2020,596
+6251,Experian,2022,664
+6252,TransUnion,2023,486
+6253,Yellow Banana,2023,429
+6254,Experian,2021,608
+6255,TransUnion,2022,543
+6256,Yellow Banana,2021,497
+6257,Yellow Banana,2024,391
+6258,TransUnion,2021,568
+6259,TransUnion,2024,391
+6260,TransUnion,2021,515
+6261,Equifax,2023,450
+6262,Experian,2024,783
+6263,Yellow Banana,2024,505
+6264,Experian,2021,669
+6265,Yellow Banana,2023,729
+6266,Experian,2020,703
+6267,Experian,2024,457
+6268,Experian,2020,699
+6269,Experian,2020,687
+6270,Experian,2022,781
+6271,Yellow Banana,2023,674
+6272,Equifax,2020,412
+6273,TransUnion,2023,577
+6274,Equifax,2021,662
+6275,Experian,2021,404
+6276,Yellow Banana,2023,514
+6277,TransUnion,2021,385
+6278,Experian,2023,472
+6279,Equifax,2023,553
+6280,TransUnion,2021,566
+6281,Equifax,2020,794
+6282,Yellow Banana,2024,789
+6283,Equifax,2022,760
+6284,Experian,2023,418
+6285,Equifax,2021,568
+6286,Equifax,2022,501
+6287,Yellow Banana,2021,662
+6288,TransUnion,2024,776
+6289,Experian,2023,605
+6290,TransUnion,2022,381
+6291,Yellow Banana,2023,598
+6292,Equifax,2021,368
+6293,TransUnion,2020,398
+6294,Equifax,2023,830
+6295,Yellow Banana,2021,636
+6296,Experian,2023,788
+6297,TransUnion,2024,798
+6298,Equifax,2020,581
+6299,Experian,2020,765
+6300,Equifax,2024,760
+6301,TransUnion,2024,484
+6302,Experian,2020,482
+6303,Equifax,2022,765
+6304,Yellow Banana,2021,645
+6305,TransUnion,2023,570
+6306,Experian,2023,743
+6307,Yellow Banana,2021,312
+6308,TransUnion,2023,640
+6309,TransUnion,2024,488
+6310,Equifax,2024,319
+6311,Experian,2024,447
+6312,Experian,2021,370
+6313,Yellow Banana,2020,402
+6314,Equifax,2020,473
+6315,TransUnion,2021,531
+6316,Experian,2024,622
+6317,TransUnion,2023,424
+6318,Experian,2024,487
+6319,Experian,2023,662
+6320,Yellow Banana,2020,642
+6321,TransUnion,2020,745
+6322,Experian,2024,410
+6323,Experian,2021,577
+6324,Equifax,2024,340
+6325,Equifax,2024,715
+6326,TransUnion,2022,747
+6327,Experian,2024,399
+6328,Experian,2021,807
+6329,Equifax,2024,454
+6330,Yellow Banana,2022,793
+6331,Yellow Banana,2023,304
+6332,Equifax,2022,451
+6333,Experian,2020,546
+6334,Equifax,2023,700
+6335,TransUnion,2024,655
+6336,Yellow Banana,2021,625
+6337,Experian,2023,681
+6338,Yellow Banana,2020,530
+6339,TransUnion,2024,702
+6340,TransUnion,2021,481
+6341,Experian,2020,616
+6342,Experian,2024,639
+6343,TransUnion,2020,388
+6344,Yellow Banana,2020,355
+6345,Yellow Banana,2021,650
+6346,TransUnion,2022,339
+6347,Equifax,2020,675
+6348,Equifax,2020,732
+6349,Yellow Banana,2023,625
+6350,Equifax,2022,807
+6351,Equifax,2023,325
+6352,Yellow Banana,2022,742
+6353,TransUnion,2023,605
+6354,Experian,2021,314
+6355,TransUnion,2023,699
+6356,Experian,2022,315
+6357,Equifax,2023,569
+6358,Equifax,2021,446
+6359,Equifax,2020,459
+6360,Experian,2020,328
+6361,Experian,2020,848
+6362,Yellow Banana,2022,633
+6363,TransUnion,2021,338
+6364,TransUnion,2020,801
+6365,TransUnion,2023,819
+6366,TransUnion,2020,740
+6367,Equifax,2024,535
+6368,Equifax,2022,843
+6369,Experian,2022,468
+6370,Equifax,2020,781
+6371,Equifax,2022,570
+6372,Experian,2021,456
+6373,TransUnion,2020,786
+6374,Equifax,2024,698
+6375,Equifax,2022,400
+6376,TransUnion,2023,544
+6377,Experian,2020,695
+6378,Yellow Banana,2022,485
+6379,Equifax,2024,487
+6380,Equifax,2021,373
+6381,Yellow Banana,2020,822
+6382,Yellow Banana,2022,587
+6383,TransUnion,2022,545
+6384,Experian,2023,728
+6385,Equifax,2024,734
+6386,Equifax,2022,450
+6387,Equifax,2022,395
+6388,Yellow Banana,2020,506
+6389,TransUnion,2022,842
+6390,TransUnion,2020,826
+6391,Yellow Banana,2021,471
+6392,Equifax,2020,818
+6393,Equifax,2022,388
+6394,TransUnion,2020,771
+6395,Experian,2023,505
+6396,Equifax,2022,672
+6397,Equifax,2024,468
+6398,Equifax,2023,434
+6399,TransUnion,2023,480
+6400,Yellow Banana,2024,809
+6401,Yellow Banana,2022,841
+6402,Equifax,2022,584
+6403,Yellow Banana,2024,667
+6404,Equifax,2021,345
+6405,Experian,2020,791
+6406,Equifax,2021,365
+6407,Yellow Banana,2022,326
+6408,Yellow Banana,2022,438
+6409,Experian,2020,684
+6410,Experian,2022,731
+6411,TransUnion,2021,538
+6412,Yellow Banana,2023,503
+6413,Experian,2022,596
+6414,Equifax,2022,640
+6415,Yellow Banana,2024,711
+6416,Yellow Banana,2021,649
+6417,TransUnion,2022,529
+6418,Equifax,2021,494
+6419,Yellow Banana,2023,673
+6420,Experian,2024,735
+6421,Experian,2023,594
+6422,Experian,2020,834
+6423,TransUnion,2022,678
+6424,Experian,2022,819
+6425,Experian,2023,513
+6426,Equifax,2021,335
+6427,Equifax,2020,778
+6428,Experian,2024,340
+6429,Equifax,2022,305
+6430,Equifax,2022,571
+6431,Equifax,2024,749
+6432,Yellow Banana,2022,805
+6433,Equifax,2022,314
+6434,Yellow Banana,2021,836
+6435,Experian,2023,405
+6436,TransUnion,2021,515
+6437,Experian,2020,621
+6438,Yellow Banana,2023,838
+6439,Equifax,2023,363
+6440,Equifax,2022,658
+6441,TransUnion,2022,815
+6442,TransUnion,2023,391
+6443,Equifax,2024,690
+6444,Equifax,2020,568
+6445,Equifax,2022,704
+6446,TransUnion,2021,448
+6447,TransUnion,2021,371
+6448,Yellow Banana,2022,674
+6449,Experian,2024,738
+6450,Equifax,2021,598
+6451,Experian,2022,652
+6452,Yellow Banana,2022,441
+6453,Yellow Banana,2022,830
+6454,Yellow Banana,2022,515
+6455,Experian,2024,447
+6456,Experian,2021,503
+6457,Yellow Banana,2024,524
+6458,Yellow Banana,2024,568
+6459,TransUnion,2024,622
+6460,Equifax,2020,541
+6461,Yellow Banana,2022,830
+6462,Experian,2023,630
+6463,Experian,2022,794
+6464,Equifax,2023,654
+6465,Equifax,2021,796
+6466,Equifax,2020,810
+6467,TransUnion,2022,434
+6468,Experian,2022,833
+6469,Experian,2022,391
+6470,Yellow Banana,2024,723
+6471,Yellow Banana,2021,366
+6472,TransUnion,2024,549
+6473,Experian,2023,739
+6474,Equifax,2020,437
+6475,Experian,2021,694
+6476,Yellow Banana,2024,469
+6477,Equifax,2023,617
+6478,TransUnion,2022,607
+6479,Yellow Banana,2024,633
+6480,Yellow Banana,2021,387
+6481,Yellow Banana,2020,795
+6482,Equifax,2020,423
+6483,TransUnion,2021,519
+6484,Yellow Banana,2021,595
+6485,Equifax,2022,423
+6486,Experian,2023,402
+6487,Experian,2022,511
+6488,Experian,2022,661
+6489,Yellow Banana,2022,444
+6490,Experian,2022,841
+6491,TransUnion,2020,603
+6492,Experian,2023,642
+6493,Yellow Banana,2020,584
+6494,Yellow Banana,2022,826
+6495,TransUnion,2024,540
+6496,Experian,2023,383
+6497,Equifax,2024,647
+6498,Experian,2023,663
+6499,Equifax,2022,491
+6500,Experian,2024,775
+6501,Equifax,2020,433
+6502,Equifax,2020,499
+6503,Equifax,2024,459
+6504,Yellow Banana,2021,446
+6505,Equifax,2022,742
+6506,TransUnion,2020,333
+6507,Equifax,2022,625
+6508,Yellow Banana,2024,407
+6509,Yellow Banana,2021,434
+6510,Experian,2021,688
+6511,TransUnion,2023,383
+6512,Experian,2022,747
+6513,Experian,2022,470
+6514,Yellow Banana,2023,627
+6515,Experian,2023,668
+6516,Equifax,2024,477
+6517,TransUnion,2022,438
+6518,TransUnion,2021,812
+6519,Experian,2021,545
+6520,TransUnion,2021,644
+6521,Yellow Banana,2022,399
+6522,Experian,2020,712
+6523,TransUnion,2022,335
+6524,Experian,2022,738
+6525,TransUnion,2021,665
+6526,Experian,2024,472
+6527,TransUnion,2024,702
+6528,Yellow Banana,2023,511
+6529,Equifax,2024,670
+6530,TransUnion,2022,657
+6531,TransUnion,2024,836
+6532,Equifax,2024,427
+6533,Equifax,2022,559
+6534,Equifax,2021,471
+6535,Equifax,2022,733
+6536,Equifax,2020,778
+6537,Experian,2021,693
+6538,Yellow Banana,2021,484
+6539,Experian,2024,522
+6540,TransUnion,2022,754
+6541,Experian,2023,575
+6542,Experian,2021,470
+6543,Yellow Banana,2022,442
+6544,Experian,2024,462
+6545,TransUnion,2023,644
+6546,Experian,2023,762
+6547,Yellow Banana,2021,784
+6548,Yellow Banana,2024,368
+6549,Yellow Banana,2024,782
+6550,Experian,2020,820
+6551,Yellow Banana,2021,775
+6552,Yellow Banana,2022,743
+6553,Yellow Banana,2024,483
+6554,Experian,2024,577
+6555,Equifax,2022,789
+6556,TransUnion,2020,804
+6557,TransUnion,2024,733
+6558,Experian,2022,566
+6559,Equifax,2020,444
+6560,TransUnion,2024,539
+6561,Experian,2022,555
+6562,Yellow Banana,2022,356
+6563,TransUnion,2022,741
+6564,Equifax,2023,373
+6565,Experian,2020,502
+6566,Yellow Banana,2024,392
+6567,Experian,2024,464
+6568,TransUnion,2020,563
+6569,TransUnion,2020,395
+6570,TransUnion,2020,776
+6571,Yellow Banana,2021,654
+6572,Equifax,2020,403
+6573,Experian,2024,808
+6574,Equifax,2020,546
+6575,Equifax,2020,306
+6576,TransUnion,2022,450
+6577,Experian,2023,424
+6578,Equifax,2023,566
+6579,Equifax,2023,850
+6580,Experian,2023,410
+6581,Experian,2024,512
+6582,TransUnion,2020,828
+6583,Yellow Banana,2024,744
+6584,Experian,2022,349
+6585,Equifax,2020,841
+6586,Experian,2023,413
+6587,TransUnion,2020,470
+6588,Equifax,2022,435
+6589,Yellow Banana,2023,453
+6590,Yellow Banana,2021,314
+6591,Experian,2020,779
+6592,Equifax,2021,509
+6593,Equifax,2021,526
+6594,TransUnion,2020,381
+6595,TransUnion,2023,627
+6596,Experian,2024,823
+6597,Equifax,2021,460
+6598,Experian,2020,640
+6599,Equifax,2024,619
+6600,Equifax,2022,721
+6601,TransUnion,2024,705
+6602,Yellow Banana,2023,496
+6603,Equifax,2021,499
+6604,Equifax,2022,835
+6605,TransUnion,2024,739
+6606,Yellow Banana,2023,444
+6607,Yellow Banana,2024,582
+6608,Experian,2023,563
+6609,TransUnion,2021,471
+6610,TransUnion,2024,723
+6611,TransUnion,2020,644
+6612,Yellow Banana,2020,812
+6613,Yellow Banana,2022,547
+6614,Yellow Banana,2022,837
+6615,Yellow Banana,2023,304
+6616,Experian,2023,313
+6617,TransUnion,2020,359
+6618,Experian,2023,636
+6619,Yellow Banana,2021,608
+6620,Yellow Banana,2024,317
+6621,Equifax,2023,817
+6622,Yellow Banana,2020,783
+6623,TransUnion,2020,485
+6624,Experian,2020,618
+6625,Yellow Banana,2021,412
+6626,Equifax,2023,373
+6627,Experian,2020,459
+6628,Equifax,2024,828
+6629,Yellow Banana,2024,584
+6630,TransUnion,2021,772
+6631,TransUnion,2024,656
+6632,TransUnion,2021,765
+6633,Experian,2020,540
+6634,TransUnion,2024,707
+6635,Experian,2024,715
+6636,Yellow Banana,2024,490
+6637,TransUnion,2024,307
+6638,TransUnion,2024,805
+6639,TransUnion,2022,566
+6640,Experian,2020,539
+6641,Equifax,2023,533
+6642,Yellow Banana,2023,446
+6643,Experian,2023,474
+6644,TransUnion,2020,629
+6645,Yellow Banana,2024,600
+6646,TransUnion,2020,538
+6647,Yellow Banana,2023,374
+6648,Yellow Banana,2020,518
+6649,Equifax,2020,651
+6650,TransUnion,2022,822
+6651,Yellow Banana,2024,764
+6652,Experian,2024,376
+6653,Equifax,2021,786
+6654,Yellow Banana,2023,689
+6655,TransUnion,2020,465
+6656,Yellow Banana,2022,518
+6657,Equifax,2020,679
+6658,TransUnion,2023,370
+6659,Yellow Banana,2020,584
+6660,Yellow Banana,2021,703
+6661,TransUnion,2020,437
+6662,Experian,2020,810
+6663,Equifax,2023,571
+6664,Experian,2021,660
+6665,Experian,2021,630
+6666,Equifax,2021,559
+6667,Yellow Banana,2021,626
+6668,Experian,2021,621
+6669,Yellow Banana,2022,642
+6670,Experian,2023,387
+6671,Yellow Banana,2022,612
+6672,TransUnion,2020,380
+6673,Experian,2022,701
+6674,Experian,2020,673
+6675,TransUnion,2020,457
+6676,Experian,2021,513
+6677,Equifax,2024,616
+6678,Equifax,2024,454
+6679,Experian,2021,813
+6680,Yellow Banana,2020,497
+6681,Yellow Banana,2023,342
+6682,TransUnion,2024,784
+6683,TransUnion,2021,825
+6684,Equifax,2024,753
+6685,TransUnion,2021,817
+6686,Equifax,2020,526
+6687,Yellow Banana,2023,475
+6688,Yellow Banana,2021,385
+6689,Experian,2020,472
+6690,Experian,2023,421
+6691,Yellow Banana,2022,806
+6692,Equifax,2021,431
+6693,Yellow Banana,2024,688
+6694,Yellow Banana,2024,380
+6695,TransUnion,2023,470
+6696,Yellow Banana,2022,705
+6697,Yellow Banana,2022,632
+6698,Yellow Banana,2023,780
+6699,Experian,2024,821
+6700,Yellow Banana,2020,790
+6701,Yellow Banana,2024,387
+6702,Yellow Banana,2021,421
+6703,Equifax,2020,762
+6704,Experian,2021,813
+6705,Yellow Banana,2023,510
+6706,Yellow Banana,2020,324
+6707,Equifax,2020,581
+6708,Experian,2021,831
+6709,Experian,2021,785
+6710,Equifax,2023,431
+6711,Equifax,2022,679
+6712,Equifax,2024,461
+6713,Experian,2024,723
+6714,Equifax,2021,669
+6715,Yellow Banana,2021,468
+6716,Yellow Banana,2020,640
+6717,Experian,2022,513
+6718,Equifax,2023,820
+6719,TransUnion,2021,690
+6720,TransUnion,2022,598
+6721,Equifax,2021,536
+6722,Experian,2021,850
+6723,Yellow Banana,2020,376
+6724,TransUnion,2021,593
+6725,Equifax,2023,531
+6726,Experian,2021,709
+6727,Equifax,2024,369
+6728,Yellow Banana,2023,637
+6729,Yellow Banana,2020,490
+6730,Yellow Banana,2023,495
+6731,Experian,2024,383
+6732,Yellow Banana,2022,795
+6733,Equifax,2023,779
+6734,Experian,2024,634
+6735,Equifax,2021,711
+6736,Yellow Banana,2021,676
+6737,Yellow Banana,2022,594
+6738,Equifax,2022,622
+6739,Yellow Banana,2022,786
+6740,Experian,2021,814
+6741,Experian,2022,469
+6742,Yellow Banana,2021,577
+6743,Equifax,2023,653
+6744,Equifax,2022,309
+6745,TransUnion,2023,326
+6746,Yellow Banana,2020,416
+6747,TransUnion,2024,501
+6748,Experian,2022,489
+6749,Experian,2021,468
+6750,TransUnion,2023,587
+6751,Equifax,2024,710
+6752,Experian,2024,399
+6753,Experian,2020,587
+6754,Yellow Banana,2024,320
+6755,Yellow Banana,2020,392
+6756,TransUnion,2023,800
+6757,Equifax,2020,386
+6758,TransUnion,2024,614
+6759,TransUnion,2020,443
+6760,TransUnion,2024,411
+6761,TransUnion,2024,673
+6762,TransUnion,2024,713
+6763,Equifax,2024,488
+6764,Yellow Banana,2024,405
+6765,Equifax,2021,673
+6766,Equifax,2021,488
+6767,Yellow Banana,2021,733
+6768,Experian,2022,375
+6769,TransUnion,2024,667
+6770,TransUnion,2024,495
+6771,Experian,2020,687
+6772,Equifax,2020,845
+6773,TransUnion,2024,489
+6774,Yellow Banana,2021,338
+6775,TransUnion,2023,326
+6776,Yellow Banana,2023,489
+6777,Experian,2020,430
+6778,Equifax,2024,348
+6779,TransUnion,2022,637
+6780,Equifax,2023,562
+6781,Yellow Banana,2021,798
+6782,Yellow Banana,2024,558
+6783,Equifax,2024,386
+6784,Experian,2020,318
+6785,Yellow Banana,2024,396
+6786,Equifax,2023,477
+6787,Equifax,2023,433
+6788,Yellow Banana,2020,784
+6789,Equifax,2022,436
+6790,Yellow Banana,2023,432
+6791,Equifax,2023,376
+6792,Equifax,2021,830
+6793,Yellow Banana,2020,370
+6794,Experian,2022,631
+6795,Yellow Banana,2022,496
+6796,Equifax,2024,527
+6797,Yellow Banana,2021,341
+6798,TransUnion,2020,421
+6799,TransUnion,2022,685
+6800,Experian,2020,620
+6801,Yellow Banana,2023,566
+6802,Equifax,2024,850
+6803,Equifax,2021,365
+6804,Experian,2022,768
+6805,TransUnion,2024,566
+6806,Equifax,2023,566
+6807,Equifax,2022,810
+6808,Equifax,2021,437
+6809,Experian,2021,632
+6810,Experian,2021,780
+6811,TransUnion,2021,415
+6812,Equifax,2023,536
+6813,Yellow Banana,2023,827
+6814,Experian,2023,632
+6815,Equifax,2022,595
+6816,TransUnion,2024,310
+6817,Yellow Banana,2023,763
+6818,Experian,2021,452
+6819,Equifax,2020,728
+6820,Yellow Banana,2024,758
+6821,Experian,2020,617
+6822,Experian,2021,632
+6823,Yellow Banana,2024,412
+6824,Equifax,2023,559
+6825,Equifax,2024,794
+6826,Equifax,2024,457
+6827,Equifax,2020,333
+6828,Yellow Banana,2021,593
+6829,Equifax,2024,778
+6830,Experian,2023,499
+6831,Experian,2021,430
+6832,Yellow Banana,2022,812
+6833,TransUnion,2020,424
+6834,Equifax,2024,558
+6835,Yellow Banana,2020,538
+6836,Yellow Banana,2022,848
+6837,Experian,2021,306
+6838,Yellow Banana,2022,413
+6839,TransUnion,2021,525
+6840,Experian,2024,520
+6841,Experian,2022,757
+6842,Equifax,2020,493
+6843,Yellow Banana,2021,470
+6844,TransUnion,2024,592
+6845,Equifax,2024,814
+6846,TransUnion,2023,485
+6847,Yellow Banana,2020,626
+6848,Yellow Banana,2024,487
+6849,Yellow Banana,2023,440
+6850,Equifax,2020,736
+6851,Yellow Banana,2021,324
+6852,Equifax,2020,531
+6853,Equifax,2021,833
+6854,TransUnion,2022,475
+6855,Yellow Banana,2023,363
+6856,Experian,2020,638
+6857,Yellow Banana,2020,552
+6858,Equifax,2023,314
+6859,Equifax,2024,511
+6860,TransUnion,2024,500
+6861,TransUnion,2021,651
+6862,TransUnion,2022,356
+6863,TransUnion,2022,786
+6864,Equifax,2024,694
+6865,Equifax,2021,764
+6866,Yellow Banana,2020,398
+6867,Yellow Banana,2022,326
+6868,TransUnion,2021,678
+6869,Experian,2023,601
+6870,TransUnion,2024,590
+6871,TransUnion,2022,682
+6872,Equifax,2022,583
+6873,TransUnion,2021,416
+6874,Equifax,2021,775
+6875,Yellow Banana,2021,726
+6876,Experian,2023,832
+6877,TransUnion,2021,701
+6878,Yellow Banana,2022,373
+6879,Experian,2024,506
+6880,Experian,2020,698
+6881,Experian,2020,323
+6882,Yellow Banana,2024,303
+6883,Experian,2023,799
+6884,Yellow Banana,2024,771
+6885,TransUnion,2024,412
+6886,TransUnion,2022,760
+6887,TransUnion,2022,680
+6888,Yellow Banana,2024,665
+6889,Experian,2020,540
+6890,TransUnion,2023,532
+6891,Yellow Banana,2020,439
+6892,Equifax,2020,699
+6893,Yellow Banana,2023,487
+6894,Yellow Banana,2021,546
+6895,Experian,2023,604
+6896,Experian,2023,831
+6897,Equifax,2022,416
+6898,TransUnion,2024,704
+6899,Yellow Banana,2021,725
+6900,TransUnion,2023,646
+6901,Yellow Banana,2023,466
+6902,Experian,2021,796
+6903,Yellow Banana,2024,542
+6904,Equifax,2021,417
+6905,Yellow Banana,2022,316
+6906,Yellow Banana,2021,758
+6907,Equifax,2024,708
+6908,Yellow Banana,2021,587
+6909,Experian,2023,711
+6910,Equifax,2020,686
+6911,TransUnion,2020,341
+6912,TransUnion,2021,430
+6913,Equifax,2023,303
+6914,Equifax,2021,332
+6915,Experian,2021,643
+6916,Yellow Banana,2021,545
+6917,Equifax,2023,338
+6918,TransUnion,2023,478
+6919,Yellow Banana,2022,458
+6920,Yellow Banana,2020,301
+6921,Equifax,2021,529
+6922,Experian,2023,700
+6923,Yellow Banana,2023,355
+6924,Yellow Banana,2020,632
+6925,Equifax,2022,680
+6926,TransUnion,2024,369
+6927,Equifax,2020,449
+6928,Experian,2024,629
+6929,Experian,2022,357
+6930,Equifax,2022,839
+6931,Equifax,2022,649
+6932,Equifax,2022,740
+6933,Yellow Banana,2022,352
+6934,Yellow Banana,2021,377
+6935,Yellow Banana,2021,598
+6936,Yellow Banana,2022,814
+6937,TransUnion,2024,651
+6938,Experian,2024,312
+6939,Experian,2024,723
+6940,Equifax,2023,467
+6941,Yellow Banana,2021,430
+6942,Yellow Banana,2022,796
+6943,Yellow Banana,2021,611
+6944,TransUnion,2023,440
+6945,Experian,2021,681
+6946,Yellow Banana,2023,838
+6947,TransUnion,2020,427
+6948,TransUnion,2021,718
+6949,Yellow Banana,2020,701
+6950,TransUnion,2023,405
+6951,Equifax,2023,826
+6952,Yellow Banana,2023,445
+6953,Equifax,2022,333
+6954,Experian,2022,425
+6955,Equifax,2022,759
+6956,Equifax,2022,559
+6957,TransUnion,2023,462
+6958,Experian,2021,343
+6959,TransUnion,2023,370
+6960,Yellow Banana,2024,577
+6961,Experian,2021,331
+6962,Equifax,2023,599
+6963,Experian,2022,698
+6964,Equifax,2022,452
+6965,Equifax,2023,548
+6966,Experian,2023,784
+6967,TransUnion,2022,333
+6968,Experian,2024,603
+6969,Experian,2020,675
+6970,TransUnion,2024,764
+6971,Experian,2020,750
+6972,Experian,2020,525
+6973,Equifax,2020,342
+6974,Experian,2024,598
+6975,Equifax,2024,654
+6976,TransUnion,2024,478
+6977,Yellow Banana,2024,331
+6978,Equifax,2022,604
+6979,TransUnion,2023,722
+6980,Yellow Banana,2024,543
+6981,Yellow Banana,2023,451
+6982,Experian,2022,650
+6983,Equifax,2021,635
+6984,Equifax,2023,434
+6985,Equifax,2023,683
+6986,Yellow Banana,2023,677
+6987,Yellow Banana,2022,403
+6988,TransUnion,2020,446
+6989,Experian,2021,819
+6990,Yellow Banana,2023,757
+6991,TransUnion,2023,322
+6992,Equifax,2023,316
+6993,Equifax,2020,440
+6994,Experian,2020,695
+6995,Yellow Banana,2021,364
+6996,Yellow Banana,2024,544
+6997,Equifax,2020,493
+6998,Equifax,2020,382
+6999,TransUnion,2023,848
+7000,TransUnion,2021,462
+7001,Experian,2021,827
+7002,Experian,2020,597
+7003,Equifax,2024,702
+7004,Yellow Banana,2021,728
+7005,Yellow Banana,2024,465
+7006,Yellow Banana,2023,759
+7007,Equifax,2022,360
+7008,Experian,2023,553
+7009,Experian,2022,713
+7010,TransUnion,2020,651
+7011,Yellow Banana,2020,587
+7012,Yellow Banana,2024,403
+7013,Equifax,2022,515
+7014,TransUnion,2021,476
+7015,Experian,2024,727
+7016,Yellow Banana,2020,318
+7017,Experian,2023,435
+7018,Experian,2023,590
+7019,Yellow Banana,2021,685
+7020,Equifax,2021,594
+7021,Experian,2022,684
+7022,Equifax,2024,474
+7023,TransUnion,2023,830
+7024,Equifax,2023,703
+7025,Yellow Banana,2024,695
+7026,Experian,2024,343
+7027,TransUnion,2023,810
+7028,TransUnion,2024,487
+7029,Yellow Banana,2022,817
+7030,TransUnion,2021,739
+7031,TransUnion,2024,414
+7032,Experian,2024,781
+7033,Experian,2024,469
+7034,Equifax,2021,388
+7035,Experian,2021,441
+7036,Equifax,2022,773
+7037,Yellow Banana,2023,329
+7038,Experian,2023,687
+7039,Experian,2024,610
+7040,TransUnion,2024,463
+7041,Experian,2024,553
+7042,Experian,2022,511
+7043,Experian,2024,310
+7044,Experian,2024,361
+7045,Equifax,2020,562
+7046,Equifax,2021,641
+7047,Yellow Banana,2023,586
+7048,Yellow Banana,2023,405
+7049,Equifax,2022,651
+7050,Equifax,2023,333
+7051,Yellow Banana,2021,465
+7052,Equifax,2024,722
+7053,Experian,2022,371
+7054,Yellow Banana,2022,655
+7055,Equifax,2023,483
+7056,Experian,2024,744
+7057,Experian,2024,690
+7058,Experian,2024,499
+7059,Yellow Banana,2022,448
+7060,TransUnion,2020,389
+7061,Experian,2022,310
+7062,Yellow Banana,2023,410
+7063,Equifax,2021,627
+7064,TransUnion,2023,780
+7065,TransUnion,2020,374
+7066,Experian,2024,547
+7067,Yellow Banana,2022,639
+7068,Experian,2024,844
+7069,TransUnion,2023,641
+7070,Equifax,2024,551
+7071,TransUnion,2024,835
+7072,Experian,2024,757
+7073,Yellow Banana,2023,496
+7074,Equifax,2024,450
+7075,Equifax,2023,796
+7076,Yellow Banana,2024,551
+7077,Equifax,2021,559
+7078,TransUnion,2021,560
+7079,Experian,2023,409
+7080,Experian,2022,570
+7081,Experian,2024,360
+7082,Equifax,2023,542
+7083,Experian,2022,553
+7084,Equifax,2023,580
+7085,Equifax,2022,668
+7086,TransUnion,2024,617
+7087,Yellow Banana,2020,391
+7088,TransUnion,2022,571
+7089,Equifax,2021,844
+7090,Equifax,2022,404
+7091,Experian,2021,533
+7092,Yellow Banana,2022,445
+7093,Yellow Banana,2024,424
+7094,Experian,2022,323
+7095,Experian,2023,578
+7096,Equifax,2024,464
+7097,Yellow Banana,2020,778
+7098,Yellow Banana,2022,538
+7099,TransUnion,2021,455
+7100,Yellow Banana,2024,340
+7101,TransUnion,2024,469
+7102,Experian,2020,659
+7103,Yellow Banana,2020,323
+7104,Experian,2023,652
+7105,TransUnion,2021,712
+7106,Equifax,2020,526
+7107,TransUnion,2022,326
+7108,Yellow Banana,2023,400
+7109,Yellow Banana,2024,341
+7110,Equifax,2023,845
+7111,Yellow Banana,2020,489
+7112,TransUnion,2020,792
+7113,Equifax,2023,691
+7114,Equifax,2024,403
+7115,TransUnion,2020,769
+7116,Experian,2020,566
+7117,Yellow Banana,2021,653
+7118,TransUnion,2021,325
+7119,TransUnion,2023,647
+7120,Yellow Banana,2022,472
+7121,Experian,2024,569
+7122,Equifax,2021,305
+7123,Yellow Banana,2020,370
+7124,Experian,2022,453
+7125,TransUnion,2021,393
+7126,Experian,2023,710
+7127,Experian,2021,517
+7128,Experian,2021,357
+7129,Experian,2022,306
+7130,Experian,2024,454
+7131,Yellow Banana,2022,388
+7132,Equifax,2023,831
+7133,TransUnion,2021,794
+7134,Experian,2020,547
+7135,Equifax,2024,468
+7136,TransUnion,2021,389
+7137,TransUnion,2021,488
+7138,Equifax,2022,651
+7139,Experian,2023,771
+7140,Equifax,2022,411
+7141,Equifax,2022,558
+7142,Equifax,2021,826
+7143,Equifax,2023,764
+7144,Experian,2023,447
+7145,Yellow Banana,2023,398
+7146,Equifax,2022,846
+7147,Experian,2023,397
+7148,TransUnion,2024,568
+7149,Equifax,2024,450
+7150,Experian,2021,798
+7151,TransUnion,2022,505
+7152,Equifax,2022,652
+7153,TransUnion,2021,446
+7154,Experian,2024,436
+7155,Yellow Banana,2023,464
+7156,Yellow Banana,2022,521
+7157,Equifax,2022,369
+7158,Equifax,2024,351
+7159,Equifax,2022,583
+7160,Yellow Banana,2021,599
+7161,Experian,2021,449
+7162,Equifax,2022,796
+7163,Yellow Banana,2024,623
+7164,Experian,2020,775
+7165,TransUnion,2021,358
+7166,Yellow Banana,2023,328
+7167,TransUnion,2020,594
+7168,TransUnion,2023,522
+7169,Experian,2023,674
+7170,Equifax,2023,476
+7171,Experian,2020,722
+7172,Yellow Banana,2022,696
+7173,TransUnion,2024,339
+7174,Equifax,2024,499
+7175,Experian,2023,471
+7176,Experian,2023,509
+7177,Experian,2024,833
+7178,TransUnion,2020,633
+7179,Equifax,2020,348
+7180,TransUnion,2023,834
+7181,Yellow Banana,2024,704
+7182,Experian,2021,827
+7183,Yellow Banana,2022,755
+7184,Yellow Banana,2024,523
+7185,Experian,2024,510
+7186,Experian,2020,589
+7187,Equifax,2024,546
+7188,Equifax,2020,724
+7189,Yellow Banana,2020,453
+7190,Equifax,2020,420
+7191,Experian,2022,664
+7192,Experian,2024,703
+7193,TransUnion,2023,300
+7194,TransUnion,2022,575
+7195,TransUnion,2023,559
+7196,Equifax,2021,472
+7197,Equifax,2022,476
+7198,Yellow Banana,2023,774
+7199,Yellow Banana,2021,569
+7200,Yellow Banana,2021,667
+7201,Experian,2023,721
+7202,TransUnion,2022,791
+7203,Equifax,2021,490
+7204,Experian,2022,635
+7205,TransUnion,2020,544
+7206,TransUnion,2023,609
+7207,Experian,2021,724
+7208,Equifax,2022,356
+7209,Yellow Banana,2021,785
+7210,Yellow Banana,2020,762
+7211,TransUnion,2023,683
+7212,TransUnion,2022,721
+7213,Equifax,2020,558
+7214,Experian,2023,506
+7215,Experian,2023,361
+7216,TransUnion,2023,757
+7217,Experian,2021,790
+7218,Yellow Banana,2024,824
+7219,Experian,2022,709
+7220,Experian,2021,416
+7221,Experian,2023,579
+7222,TransUnion,2023,355
+7223,Yellow Banana,2024,509
+7224,TransUnion,2021,568
+7225,Equifax,2021,367
+7226,Equifax,2020,811
+7227,Equifax,2024,577
+7228,TransUnion,2022,337
+7229,Yellow Banana,2021,817
+7230,TransUnion,2021,345
+7231,TransUnion,2020,438
+7232,Yellow Banana,2020,748
+7233,TransUnion,2022,839
+7234,TransUnion,2023,307
+7235,Experian,2023,570
+7236,Experian,2020,327
+7237,Yellow Banana,2024,734
+7238,Equifax,2022,742
+7239,Experian,2022,783
+7240,Equifax,2024,580
+7241,TransUnion,2021,440
+7242,Experian,2023,430
+7243,TransUnion,2020,765
+7244,Experian,2022,663
+7245,Experian,2020,816
+7246,Equifax,2024,770
+7247,Experian,2020,337
+7248,Equifax,2020,776
+7249,Experian,2020,738
+7250,Yellow Banana,2024,365
+7251,Equifax,2024,759
+7252,Experian,2021,735
+7253,TransUnion,2023,846
+7254,Equifax,2022,812
+7255,TransUnion,2022,760
+7256,TransUnion,2023,398
+7257,Experian,2022,831
+7258,Equifax,2024,577
+7259,Experian,2024,498
+7260,Yellow Banana,2021,479
+7261,Experian,2023,743
+7262,Experian,2020,721
+7263,Equifax,2023,771
+7264,TransUnion,2020,809
+7265,Experian,2024,493
+7266,TransUnion,2022,383
+7267,Yellow Banana,2023,813
+7268,Experian,2023,331
+7269,Experian,2022,706
+7270,TransUnion,2020,329
+7271,Equifax,2022,724
+7272,TransUnion,2022,541
+7273,Yellow Banana,2020,318
+7274,Equifax,2024,629
+7275,Experian,2021,339
+7276,Equifax,2024,525
+7277,Equifax,2020,530
+7278,TransUnion,2020,667
+7279,TransUnion,2022,459
+7280,Yellow Banana,2023,807
+7281,Experian,2020,379
+7282,Equifax,2020,664
+7283,Experian,2023,797
+7284,Experian,2020,369
+7285,TransUnion,2022,498
+7286,Experian,2023,338
+7287,Equifax,2022,390
+7288,TransUnion,2021,691
+7289,Experian,2024,349
+7290,Experian,2021,698
+7291,TransUnion,2021,682
+7292,TransUnion,2022,481
+7293,Yellow Banana,2023,729
+7294,Experian,2021,831
+7295,Yellow Banana,2020,409
+7296,Yellow Banana,2024,644
+7297,Equifax,2022,659
+7298,Yellow Banana,2022,522
+7299,Experian,2020,306
+7300,Equifax,2021,812
+7301,TransUnion,2022,827
+7302,TransUnion,2021,765
+7303,Yellow Banana,2022,726
+7304,Equifax,2024,648
+7305,Equifax,2021,525
+7306,Yellow Banana,2024,548
+7307,Yellow Banana,2024,377
+7308,TransUnion,2020,648
+7309,TransUnion,2021,342
+7310,TransUnion,2020,591
+7311,TransUnion,2024,575
+7312,Equifax,2021,477
+7313,TransUnion,2024,639
+7314,Yellow Banana,2020,302
+7315,Equifax,2023,371
+7316,Yellow Banana,2022,424
+7317,Experian,2020,763
+7318,Yellow Banana,2020,581
+7319,Experian,2021,493
+7320,TransUnion,2022,631
+7321,Yellow Banana,2022,540
+7322,Equifax,2021,625
+7323,Equifax,2020,532
+7324,Yellow Banana,2024,725
+7325,Experian,2023,624
+7326,Yellow Banana,2023,604
+7327,Experian,2024,693
+7328,Equifax,2022,548
+7329,Experian,2021,598
+7330,Experian,2022,830
+7331,Experian,2022,762
+7332,TransUnion,2023,485
+7333,Yellow Banana,2024,583
+7334,Yellow Banana,2022,442
+7335,Yellow Banana,2022,525
+7336,Yellow Banana,2024,724
+7337,Equifax,2022,395
+7338,Yellow Banana,2020,395
+7339,Yellow Banana,2021,326
+7340,Yellow Banana,2022,327
+7341,Equifax,2023,799
+7342,TransUnion,2022,567
+7343,Experian,2023,508
+7344,TransUnion,2022,635
+7345,Yellow Banana,2024,771
+7346,TransUnion,2020,637
+7347,Equifax,2023,544
+7348,Equifax,2022,447
+7349,TransUnion,2021,320
+7350,TransUnion,2023,327
+7351,Yellow Banana,2022,658
+7352,Yellow Banana,2023,844
+7353,Equifax,2024,496
+7354,Experian,2023,574
+7355,TransUnion,2022,738
+7356,Equifax,2022,318
+7357,TransUnion,2022,496
+7358,Equifax,2023,491
+7359,TransUnion,2024,610
+7360,Experian,2024,570
+7361,Experian,2024,338
+7362,Experian,2022,786
+7363,Equifax,2021,597
+7364,Equifax,2022,358
+7365,Experian,2024,804
+7366,Equifax,2023,526
+7367,Experian,2021,756
+7368,Yellow Banana,2023,365
+7369,Experian,2024,307
+7370,Experian,2024,398
+7371,Experian,2024,742
+7372,Yellow Banana,2023,412
+7373,Experian,2023,390
+7374,Experian,2022,456
+7375,TransUnion,2024,560
+7376,Equifax,2023,653
+7377,Equifax,2020,403
+7378,Experian,2020,693
+7379,Equifax,2024,334
+7380,Experian,2021,628
+7381,Equifax,2021,493
+7382,TransUnion,2024,358
+7383,Experian,2022,612
+7384,Equifax,2023,831
+7385,Experian,2020,460
+7386,TransUnion,2020,510
+7387,Experian,2020,599
+7388,TransUnion,2023,716
+7389,TransUnion,2022,301
+7390,Equifax,2021,433
+7391,TransUnion,2020,463
+7392,Equifax,2022,645
+7393,Experian,2021,317
+7394,Yellow Banana,2020,426
+7395,Yellow Banana,2021,326
+7396,Experian,2022,302
+7397,Experian,2022,399
+7398,TransUnion,2020,448
+7399,Equifax,2023,760
+7400,Experian,2024,777
+7401,TransUnion,2022,427
+7402,Equifax,2021,440
+7403,Yellow Banana,2020,600
+7404,Experian,2021,517
+7405,Equifax,2021,768
+7406,TransUnion,2024,707
+7407,TransUnion,2022,518
+7408,Equifax,2023,405
+7409,TransUnion,2022,355
+7410,TransUnion,2024,503
+7411,Yellow Banana,2023,529
+7412,Yellow Banana,2024,484
+7413,Experian,2023,391
+7414,Equifax,2021,467
+7415,Experian,2020,829
+7416,TransUnion,2022,368
+7417,Yellow Banana,2024,725
+7418,Experian,2021,644
+7419,Equifax,2021,433
+7420,TransUnion,2021,460
+7421,TransUnion,2023,636
+7422,Equifax,2022,532
+7423,Experian,2020,562
+7424,TransUnion,2024,749
+7425,Equifax,2024,724
+7426,Equifax,2022,518
+7427,Yellow Banana,2020,505
+7428,Equifax,2020,571
+7429,Equifax,2022,372
+7430,Equifax,2024,437
+7431,Experian,2023,825
+7432,Equifax,2020,593
+7433,Yellow Banana,2022,783
+7434,TransUnion,2022,479
+7435,Yellow Banana,2024,717
+7436,Yellow Banana,2020,822
+7437,TransUnion,2023,649
+7438,Experian,2021,380
+7439,Equifax,2021,471
+7440,Equifax,2020,716
+7441,Experian,2020,403
+7442,Experian,2023,443
+7443,Yellow Banana,2024,789
+7444,Yellow Banana,2023,499
+7445,Experian,2023,400
+7446,Experian,2023,827
+7447,Yellow Banana,2022,477
+7448,TransUnion,2024,484
+7449,Experian,2020,698
+7450,Equifax,2021,513
+7451,TransUnion,2024,764
+7452,TransUnion,2021,841
+7453,Equifax,2021,461
+7454,Experian,2021,519
+7455,Equifax,2022,420
+7456,TransUnion,2024,639
+7457,TransUnion,2023,660
+7458,TransUnion,2021,559
+7459,Experian,2024,808
+7460,TransUnion,2022,569
+7461,Equifax,2021,713
+7462,Experian,2020,578
+7463,TransUnion,2020,785
+7464,Experian,2020,336
+7465,Experian,2022,821
+7466,Equifax,2023,412
+7467,TransUnion,2022,394
+7468,Yellow Banana,2024,692
+7469,Equifax,2023,416
+7470,TransUnion,2024,826
+7471,Yellow Banana,2024,844
+7472,Yellow Banana,2022,814
+7473,Yellow Banana,2021,397
+7474,Equifax,2022,765
+7475,Equifax,2021,456
+7476,Yellow Banana,2022,834
+7477,Experian,2020,447
+7478,Yellow Banana,2024,330
+7479,Yellow Banana,2023,308
+7480,Experian,2024,830
+7481,TransUnion,2020,572
+7482,TransUnion,2022,415
+7483,Equifax,2024,501
+7484,TransUnion,2020,317
+7485,Experian,2021,772
+7486,Experian,2021,783
+7487,Equifax,2020,836
+7488,Equifax,2021,675
+7489,Yellow Banana,2023,604
+7490,Yellow Banana,2020,404
+7491,Yellow Banana,2024,776
+7492,TransUnion,2021,820
+7493,TransUnion,2023,304
+7494,Equifax,2023,571
+7495,Equifax,2020,680
+7496,Equifax,2024,528
+7497,Equifax,2023,524
+7498,Yellow Banana,2024,724
+7499,Yellow Banana,2020,700
+7500,Equifax,2023,494
+7501,Experian,2021,454
+7502,Experian,2023,494
+7503,Yellow Banana,2021,589
+7504,Yellow Banana,2023,522
+7505,Yellow Banana,2024,633
+7506,TransUnion,2024,496
+7507,Experian,2023,844
+7508,TransUnion,2022,456
+7509,TransUnion,2022,371
+7510,Equifax,2024,587
+7511,Yellow Banana,2020,390
+7512,TransUnion,2020,822
+7513,Yellow Banana,2022,565
+7514,TransUnion,2022,591
+7515,Yellow Banana,2023,717
+7516,Yellow Banana,2020,610
+7517,Equifax,2022,841
+7518,Experian,2024,341
+7519,Yellow Banana,2021,638
+7520,TransUnion,2022,306
+7521,TransUnion,2022,324
+7522,Equifax,2023,439
+7523,Yellow Banana,2023,778
+7524,Yellow Banana,2020,676
+7525,TransUnion,2023,327
+7526,Equifax,2021,641
+7527,Equifax,2020,727
+7528,Experian,2023,595
+7529,Experian,2022,450
+7530,Experian,2020,621
+7531,TransUnion,2021,823
+7532,Experian,2022,506
+7533,Yellow Banana,2023,408
+7534,Equifax,2024,771
+7535,Yellow Banana,2024,397
+7536,Equifax,2021,520
+7537,Yellow Banana,2022,685
+7538,Experian,2021,496
+7539,Yellow Banana,2023,840
+7540,Yellow Banana,2020,477
+7541,TransUnion,2021,550
+7542,Equifax,2020,323
+7543,Experian,2022,357
+7544,Equifax,2023,606
+7545,Yellow Banana,2024,769
+7546,Experian,2020,444
+7547,Experian,2023,520
+7548,TransUnion,2023,348
+7549,Yellow Banana,2020,734
+7550,Equifax,2023,740
+7551,Equifax,2022,449
+7552,Experian,2024,323
+7553,Experian,2023,498
+7554,Yellow Banana,2020,397
+7555,TransUnion,2024,420
+7556,Equifax,2023,364
+7557,TransUnion,2023,405
+7558,Equifax,2022,743
+7559,Experian,2023,723
+7560,Yellow Banana,2023,791
+7561,Yellow Banana,2022,696
+7562,Yellow Banana,2023,603
+7563,Experian,2023,462
+7564,Experian,2024,443
+7565,TransUnion,2023,833
+7566,TransUnion,2024,313
+7567,TransUnion,2021,408
+7568,Equifax,2021,324
+7569,Yellow Banana,2020,618
+7570,Equifax,2020,705
+7571,Equifax,2022,764
+7572,Equifax,2021,803
+7573,Equifax,2020,325
+7574,Yellow Banana,2023,560
+7575,Equifax,2021,655
+7576,Equifax,2021,441
+7577,Experian,2024,583
+7578,Yellow Banana,2022,403
+7579,Equifax,2023,529
+7580,Equifax,2024,743
+7581,Yellow Banana,2020,809
+7582,Yellow Banana,2024,593
+7583,Experian,2024,371
+7584,Experian,2024,809
+7585,Experian,2024,801
+7586,Experian,2023,807
+7587,TransUnion,2024,311
+7588,TransUnion,2020,667
+7589,Yellow Banana,2021,455
+7590,Yellow Banana,2021,326
+7591,Yellow Banana,2021,438
+7592,Yellow Banana,2023,387
+7593,Yellow Banana,2021,586
+7594,TransUnion,2020,714
+7595,Yellow Banana,2024,484
+7596,Equifax,2022,521
+7597,Yellow Banana,2021,724
+7598,Experian,2022,725
+7599,Equifax,2023,764
+7600,Equifax,2020,523
+7601,Experian,2023,393
+7602,Equifax,2020,407
+7603,TransUnion,2024,828
+7604,Yellow Banana,2024,806
+7605,Equifax,2020,729
+7606,Experian,2021,517
+7607,TransUnion,2023,782
+7608,Equifax,2020,684
+7609,Experian,2020,315
+7610,Equifax,2022,504
+7611,Yellow Banana,2024,313
+7612,TransUnion,2022,696
+7613,TransUnion,2022,653
+7614,Equifax,2024,369
+7615,Experian,2022,745
+7616,Equifax,2023,720
+7617,Experian,2024,846
+7618,TransUnion,2021,573
+7619,Experian,2024,758
+7620,Equifax,2021,536
+7621,Equifax,2022,499
+7622,Experian,2024,414
+7623,Equifax,2021,604
+7624,Experian,2024,788
+7625,TransUnion,2024,829
+7626,Yellow Banana,2024,730
+7627,TransUnion,2023,521
+7628,Experian,2022,738
+7629,TransUnion,2024,544
+7630,Experian,2020,656
+7631,TransUnion,2023,670
+7632,Equifax,2023,574
+7633,Experian,2021,715
+7634,TransUnion,2024,422
+7635,Equifax,2022,570
+7636,Equifax,2024,578
+7637,Yellow Banana,2023,646
+7638,TransUnion,2020,621
+7639,Yellow Banana,2023,387
+7640,Yellow Banana,2020,482
+7641,Yellow Banana,2021,657
+7642,Yellow Banana,2021,358
+7643,Experian,2020,599
+7644,Equifax,2020,687
+7645,Equifax,2021,697
+7646,Experian,2022,308
+7647,Equifax,2020,380
+7648,Yellow Banana,2020,381
+7649,Yellow Banana,2020,522
+7650,Yellow Banana,2020,777
+7651,TransUnion,2024,450
+7652,TransUnion,2022,808
+7653,Yellow Banana,2024,848
+7654,Experian,2020,841
+7655,TransUnion,2021,336
+7656,Yellow Banana,2021,350
+7657,Yellow Banana,2024,343
+7658,TransUnion,2024,815
+7659,Equifax,2022,580
+7660,Experian,2020,645
+7661,Yellow Banana,2023,635
+7662,Equifax,2020,829
+7663,TransUnion,2020,756
+7664,Equifax,2023,320
+7665,TransUnion,2023,696
+7666,Experian,2023,327
+7667,Equifax,2024,401
+7668,Equifax,2020,584
+7669,TransUnion,2020,479
+7670,Yellow Banana,2020,326
+7671,Experian,2024,674
+7672,TransUnion,2023,323
+7673,Experian,2021,649
+7674,TransUnion,2022,631
+7675,Experian,2024,460
+7676,TransUnion,2024,313
+7677,Yellow Banana,2021,534
+7678,Yellow Banana,2023,336
+7679,TransUnion,2020,832
+7680,TransUnion,2021,760
+7681,Experian,2021,589
+7682,TransUnion,2022,519
+7683,Yellow Banana,2021,811
+7684,Experian,2024,611
+7685,Yellow Banana,2024,698
+7686,Experian,2023,761
+7687,Yellow Banana,2023,376
+7688,Equifax,2020,391
+7689,Experian,2021,720
+7690,TransUnion,2021,517
+7691,Equifax,2020,567
+7692,Experian,2020,484
+7693,Equifax,2020,487
+7694,Yellow Banana,2021,722
+7695,Equifax,2023,400
+7696,Yellow Banana,2022,538
+7697,Yellow Banana,2023,480
+7698,Experian,2022,638
+7699,Equifax,2022,397
+7700,Yellow Banana,2021,313
+7701,Equifax,2020,447
+7702,TransUnion,2021,759
+7703,Experian,2023,361
+7704,Equifax,2023,458
+7705,Equifax,2021,358
+7706,Yellow Banana,2023,563
+7707,Experian,2024,356
+7708,Experian,2023,630
+7709,Yellow Banana,2023,841
+7710,Experian,2023,570
+7711,Yellow Banana,2022,643
+7712,Yellow Banana,2021,714
+7713,Experian,2022,538
+7714,Equifax,2022,547
+7715,TransUnion,2021,409
+7716,Experian,2020,770
+7717,Equifax,2022,615
+7718,Yellow Banana,2023,474
+7719,Experian,2023,344
+7720,Equifax,2022,579
+7721,Experian,2021,842
+7722,Equifax,2020,741
+7723,Equifax,2024,626
+7724,TransUnion,2020,498
+7725,Equifax,2023,667
+7726,Yellow Banana,2022,600
+7727,Equifax,2023,727
+7728,Yellow Banana,2021,539
+7729,Experian,2023,620
+7730,Equifax,2024,796
+7731,Experian,2020,492
+7732,Experian,2022,743
+7733,TransUnion,2022,362
+7734,TransUnion,2024,714
+7735,Equifax,2023,803
+7736,TransUnion,2021,387
+7737,Yellow Banana,2020,662
+7738,Yellow Banana,2020,783
+7739,Experian,2022,699
+7740,TransUnion,2020,578
+7741,TransUnion,2021,391
+7742,Experian,2023,755
+7743,Equifax,2020,482
+7744,Equifax,2023,631
+7745,Equifax,2021,617
+7746,TransUnion,2024,397
+7747,TransUnion,2022,664
+7748,Experian,2024,495
+7749,Equifax,2024,621
+7750,Yellow Banana,2020,479
+7751,TransUnion,2024,794
+7752,TransUnion,2023,369
+7753,TransUnion,2020,652
+7754,Yellow Banana,2024,692
+7755,TransUnion,2020,328
+7756,TransUnion,2021,444
+7757,Equifax,2020,496
+7758,TransUnion,2021,453
+7759,Equifax,2020,352
+7760,Yellow Banana,2021,308
+7761,TransUnion,2023,805
+7762,Experian,2021,540
+7763,TransUnion,2023,324
+7764,Experian,2024,455
+7765,Experian,2023,755
+7766,Equifax,2022,740
+7767,Equifax,2020,409
+7768,Equifax,2022,464
+7769,Experian,2022,383
+7770,Equifax,2022,815
+7771,Yellow Banana,2020,375
+7772,Experian,2023,461
+7773,Equifax,2022,756
+7774,Yellow Banana,2021,484
+7775,Experian,2022,592
+7776,Yellow Banana,2021,727
+7777,Experian,2021,506
+7778,Yellow Banana,2023,769
+7779,Equifax,2020,600
+7780,Experian,2023,695
+7781,TransUnion,2022,539
+7782,Yellow Banana,2022,722
+7783,Experian,2023,654
+7784,Yellow Banana,2020,434
+7785,Yellow Banana,2022,681
+7786,Yellow Banana,2021,719
+7787,Experian,2020,402
+7788,Equifax,2021,373
+7789,Yellow Banana,2023,325
+7790,TransUnion,2021,423
+7791,Yellow Banana,2023,552
+7792,Experian,2021,560
+7793,Equifax,2022,354
+7794,Experian,2020,730
+7795,Equifax,2020,734
+7796,Experian,2024,772
+7797,Equifax,2022,310
+7798,Experian,2020,752
+7799,Yellow Banana,2024,730
+7800,Experian,2023,347
+7801,Yellow Banana,2022,552
+7802,Yellow Banana,2021,578
+7803,Yellow Banana,2021,646
+7804,Equifax,2022,401
+7805,Yellow Banana,2024,604
+7806,TransUnion,2022,404
+7807,Yellow Banana,2020,680
+7808,Yellow Banana,2023,676
+7809,TransUnion,2021,715
+7810,Experian,2020,773
+7811,TransUnion,2020,379
+7812,Experian,2023,779
+7813,Equifax,2020,763
+7814,Experian,2021,765
+7815,Yellow Banana,2020,479
+7816,Experian,2022,840
+7817,TransUnion,2021,317
+7818,Experian,2023,396
+7819,Yellow Banana,2024,439
+7820,Experian,2023,649
+7821,TransUnion,2023,478
+7822,TransUnion,2020,743
+7823,Experian,2023,372
+7824,Experian,2021,490
+7825,Experian,2024,339
+7826,Experian,2022,693
+7827,Equifax,2021,769
+7828,Experian,2023,687
+7829,Equifax,2020,752
+7830,Equifax,2020,495
+7831,TransUnion,2022,454
+7832,Equifax,2021,367
+7833,Yellow Banana,2022,564
+7834,Yellow Banana,2022,708
+7835,Equifax,2022,369
+7836,TransUnion,2024,541
+7837,Experian,2022,336
+7838,Experian,2022,508
+7839,TransUnion,2022,728
+7840,Yellow Banana,2022,504
+7841,Equifax,2021,384
+7842,Equifax,2023,307
+7843,Experian,2023,410
+7844,Yellow Banana,2022,814
+7845,TransUnion,2021,419
+7846,TransUnion,2024,502
+7847,Yellow Banana,2020,447
+7848,TransUnion,2021,812
+7849,Yellow Banana,2020,732
+7850,Experian,2023,429
+7851,Experian,2023,792
+7852,TransUnion,2020,789
+7853,Yellow Banana,2022,487
+7854,Equifax,2022,426
+7855,Yellow Banana,2022,590
+7856,Equifax,2024,627
+7857,Equifax,2021,539
+7858,Experian,2022,636
+7859,Experian,2022,764
+7860,Equifax,2020,351
+7861,Experian,2021,558
+7862,Yellow Banana,2020,474
+7863,TransUnion,2020,796
+7864,Yellow Banana,2023,554
+7865,TransUnion,2021,711
+7866,Experian,2024,774
+7867,Equifax,2023,335
+7868,Yellow Banana,2024,825
+7869,Yellow Banana,2022,407
+7870,TransUnion,2024,639
+7871,Experian,2021,822
+7872,Experian,2023,776
+7873,Yellow Banana,2022,360
+7874,Equifax,2021,330
+7875,Equifax,2023,792
+7876,Yellow Banana,2022,446
+7877,Yellow Banana,2022,566
+7878,Equifax,2023,849
+7879,TransUnion,2020,395
+7880,TransUnion,2020,626
+7881,Equifax,2021,315
+7882,Experian,2022,385
+7883,Equifax,2020,655
+7884,Yellow Banana,2022,466
+7885,Equifax,2020,398
+7886,TransUnion,2022,360
+7887,TransUnion,2023,310
+7888,Yellow Banana,2021,700
+7889,Experian,2021,544
+7890,TransUnion,2020,576
+7891,Experian,2024,349
+7892,Yellow Banana,2023,475
+7893,TransUnion,2023,482
+7894,Equifax,2020,531
+7895,Experian,2024,590
+7896,Yellow Banana,2024,638
+7897,Experian,2022,639
+7898,Equifax,2022,640
+7899,Experian,2021,578
+7900,Yellow Banana,2022,329
+7901,Experian,2024,443
+7902,Yellow Banana,2020,587
+7903,Experian,2024,848
+7904,Experian,2020,756
+7905,Yellow Banana,2023,742
+7906,TransUnion,2023,492
+7907,TransUnion,2023,849
+7908,Yellow Banana,2021,670
+7909,TransUnion,2023,443
+7910,TransUnion,2023,399
+7911,Equifax,2022,517
+7912,TransUnion,2024,525
+7913,Equifax,2022,330
+7914,Experian,2023,754
+7915,Yellow Banana,2021,797
+7916,TransUnion,2021,453
+7917,TransUnion,2023,682
+7918,Experian,2020,819
+7919,Equifax,2023,338
+7920,Yellow Banana,2024,475
+7921,Experian,2020,441
+7922,Yellow Banana,2021,655
+7923,Yellow Banana,2024,756
+7924,TransUnion,2024,554
+7925,Equifax,2020,307
+7926,Experian,2020,450
+7927,Experian,2021,602
+7928,Equifax,2020,747
+7929,TransUnion,2022,649
+7930,TransUnion,2021,396
+7931,Experian,2023,619
+7932,TransUnion,2023,692
+7933,TransUnion,2021,670
+7934,TransUnion,2022,625
+7935,TransUnion,2020,525
+7936,Experian,2024,484
+7937,Experian,2020,490
+7938,Yellow Banana,2020,396
+7939,Equifax,2022,747
+7940,Yellow Banana,2023,790
+7941,Experian,2021,697
+7942,Yellow Banana,2024,687
+7943,Equifax,2021,388
+7944,TransUnion,2020,541
+7945,Experian,2023,421
+7946,Yellow Banana,2021,652
+7947,Yellow Banana,2020,349
+7948,TransUnion,2023,366
+7949,TransUnion,2021,389
+7950,Experian,2021,416
+7951,Yellow Banana,2023,515
+7952,Yellow Banana,2021,428
+7953,Equifax,2022,345
+7954,TransUnion,2022,620
+7955,Yellow Banana,2024,318
+7956,Experian,2024,635
+7957,TransUnion,2023,561
+7958,TransUnion,2022,532
+7959,Equifax,2023,835
+7960,Equifax,2023,671
+7961,Experian,2021,393
+7962,Equifax,2020,705
+7963,Experian,2022,472
+7964,TransUnion,2021,303
+7965,Yellow Banana,2021,771
+7966,Yellow Banana,2020,395
+7967,Experian,2021,703
+7968,Yellow Banana,2023,392
+7969,Experian,2021,754
+7970,Equifax,2021,698
+7971,Experian,2022,375
+7972,Equifax,2023,328
+7973,Equifax,2023,304
+7974,Experian,2022,326
+7975,Equifax,2023,344
+7976,Yellow Banana,2023,744
+7977,TransUnion,2022,455
+7978,Equifax,2020,618
+7979,Equifax,2024,435
+7980,Experian,2021,437
+7981,Yellow Banana,2023,463
+7982,Experian,2021,626
+7983,Experian,2023,426
+7984,Experian,2021,806
+7985,Equifax,2021,599
+7986,Experian,2023,743
+7987,Experian,2024,673
+7988,Equifax,2021,610
+7989,Yellow Banana,2020,475
+7990,Experian,2022,515
+7991,TransUnion,2021,795
+7992,Yellow Banana,2022,742
+7993,Experian,2021,734
+7994,Yellow Banana,2023,319
+7995,Experian,2020,647
+7996,Yellow Banana,2022,388
+7997,Yellow Banana,2022,428
+7998,TransUnion,2024,408
+7999,TransUnion,2024,462
+8000,Experian,2020,517
